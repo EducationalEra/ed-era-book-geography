@@ -4,8 +4,6 @@
 
 <div class="image">
 <img src="1pic.jpg"/>
-</div>
-<div class="center">
 <p><i>Рисунок 1. Уявлення стародавніх індійців про землю.</i></p>
 </div>
 
