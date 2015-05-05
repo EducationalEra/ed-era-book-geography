@@ -23,7 +23,7 @@
 <p><i>Рисунок 3. Світ за Ератосфеном.</i></p>
 </div>
 
-
+<p align="center"><img class="image" src="../1/au3.svg"/></p>
 
 
 
