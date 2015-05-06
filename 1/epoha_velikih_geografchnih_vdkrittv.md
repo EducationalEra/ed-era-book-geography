@@ -80,7 +80,7 @@
 <td width="35%">Афанасiй Нiкiтiн<br>
 (?-1475 р.)</td>
 </tr>
-<tr>
+<tr style="height:100px">
 <td valign="top">
 <ul>
 <li>Вiдкрили та заселили Iсландiю</li>
