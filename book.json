@@ -1,7 +1,8 @@
 {
     "plugins": [
         "addcssjs",
-        "exercises"
+        "exercises",
+        "quiz"
     ],
     "pluginsConfig": {
         "addcssjs": {
@@ -12,6 +13,9 @@
                 "vendor/js/jquery/jquery-2.1.3.min.js",
                 "custom/js/custom.js"
             ]
+        },
+        "quiz" : {
+            "quiz" : "custom/js/quiz.js"
         }
     }
 }
