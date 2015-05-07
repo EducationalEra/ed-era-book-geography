@@ -15,7 +15,7 @@
             ]
         },
         "quiz" : {
-            "quiz" : "custom/js/quiz.js"
+            "quiz" : ["custom/js/quiz.js"]
         }
     }
 }
