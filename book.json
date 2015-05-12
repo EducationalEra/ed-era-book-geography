@@ -2,7 +2,6 @@
     "plugins": [
         "addcssjs",
         "exercises",
-        "quiz",
         "modal-youtube-video"
     ],
     "pluginsConfig": {
