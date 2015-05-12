@@ -39,7 +39,7 @@ function totalCorrect(currentPos) {
     return totalCorrect;
 }
 
-function showAns(currentPos) {
+/*function showAns(currentPos) {
     resetStyle(currentPos);
     questions[currentPos].getElementsByTagName("explain")[0].setAttribute("style", "display");
     var answers = questions[currentPos].getElementsByTagName("choice");
@@ -52,7 +52,7 @@ function showAns(currentPos) {
         }
     }
     
-}
+}*/
 
 function findCorrect(currentPos) {
     var answers = questions[currentPos].getElementsByTagName("choice"),
