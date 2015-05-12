@@ -65,6 +65,7 @@ function findCorrect(currentPos) {
            answers[i].getElementsByTagName("m")[0].setAttribute("style", "display");
            answers[i].getElementsByTagName("m")[0].innerHTML = " &#10004";
            answers[i].style.color = "green";
+            
         }
         else if (answers[i].getElementsByTagName("input")[0].checked == true && answers[i].getAttribute("correct") == "false") {
             incorAns++;
@@ -72,6 +73,11 @@ function findCorrect(currentPos) {
             answers[i].getElementsByTagName("m")[0].innerHTML = " &#10008";
             answers[i].style.color="red";
             }
+         if (answers[i].getAttribute("correct") == "true"){
+            answers[i].getElementsByTagName("m")[0].setAttribute("style", "display");
+           answers[i].getElementsByTagName("m")[0].innerHTML = " &#10004";
+           answers[i].style.color = "green";
+        }
         }
     if (incorAns == 0 && corAns == 0) {
          questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Не вибрано жодного варіанту.";
@@ -85,6 +91,7 @@ function findCorrect(currentPos) {
             }
             inputs[inputs.length-1].setAttribute("style", "display");
          }
+   questions[currentPos].getElementsByTagName("explain")[0].setAttribute("style", "display");
     
 }
 
@@ -111,9 +118,10 @@ function go() {
         if (questions[currentPos].getAttribute("type") == "Multiple"){createMultiple(currentPos);}
         if (questions[currentPos].getAttribute("type") == "CheckBox"){createCheckBox(currentPos);}
         questions[currentPos].innerHTML += "<input type='button' onclick='findCorrect(" + currentPos + ")' value='Перевірити' id='f" + currentPos + "'/>";
-        questions[currentPos].innerHTML += "<input type='button' onclick='showAns(" + currentPos + ")' style='display:none' value='Показати відповідь' id='s" + currentPos + "'/>";
+      //  questions[currentPos].innerHTML += "<input type='button' onclick='showAns(" + currentPos + ")' style='display:none' value='Показати відповідь' id='s" + currentPos + "'/>";
         currentPos++;
     }
 }
 
-document.addEventListener("load", go, false);
+window.addEventListener("load", go, false);
+//document.addEventListener("load", go, false);
