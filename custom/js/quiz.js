@@ -116,4 +116,4 @@ function go() {
     }
 }
 
-document.addEventListener("load", go, false);
+window.addEventListener("load", go, false);
