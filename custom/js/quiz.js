@@ -124,4 +124,7 @@ function go() {
 }
 
 window.addEventListener("load", go, false);
+<<<<<<< HEAD
 //document.addEventListener("load", go, false);
+=======
+>>>>>>> origin/master
