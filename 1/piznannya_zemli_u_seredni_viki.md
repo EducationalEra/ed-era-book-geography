@@ -39,3 +39,10 @@
 </div>
 </div>
 
+<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="Хто створив перший глобус?" multiple>
+<answer correct>Мартін Бехайм</answer>
+<answer>Васко да Гама</answer>
+<answer>Бартоломеу Діаш</answer>
+</question>
+</quiz>
