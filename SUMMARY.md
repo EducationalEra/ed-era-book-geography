@@ -2,7 +2,6 @@
 
 * [Зміст](README.md)
 * [Географiчне пiзнання Землi](1/geografichne_piznannya_zemli.md)
-   * [Пізнання землі у середні віки](1/piznannya_zemli_u_seredni_viki.md)
    * [Епоха Великих географічних відкриттів](1/epoha_velikih_geografchnih_vdkrittv.md)
    * Географiя нового часу
    * Освоєння полярних широт
