@@ -36,11 +36,5 @@
 <p><i>Рисунок 4. Карта світу з "Географії Птолемея"</i></p>
 </div>
 
-<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="Хто з вчених перший визначив розміри Землі?" multiple>
-<answer correct>Ератосфен</answer>
-<answer>Геродот</answer>
-<answer>Птолемей</answer>
-</question>
-</quiz>
+
 
