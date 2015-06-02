@@ -6,7 +6,7 @@
 
 <div class="center">
 <img src="../pics/ibnBattutaMap.jpg" width="500px" class="center"/>
-<p><i>Рисунок 5. Маршрут подорожi Iбн Батута</i></p>
+<p><i>Рисунок 5. Маршрут подорожi Iбн Батути</i></p>
 </div>
 
 <div class="alg-wrap">
