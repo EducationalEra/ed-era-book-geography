@@ -40,4 +40,12 @@
 </div>
 
 
+<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="">
+<p>Хто створив перший глобус?</p>
+<answer correct>Мартін Бехайм</answer>
+<answer>Васко да Гама</answer>
+<answer>Бартоломеу Діаш</answer>
+</question>
+</quiz>
 
