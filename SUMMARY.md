@@ -1,6 +1,6 @@
 # Summary
 
-1. [Зміст](README.md)
+1. [Вступне слово](vstup.md)
 * [Географiчне пiзнання Землi](1/geografichne_piznannya_zemli.md)
    1. [Cтародавня епоха пізнання Землі](1/ctarodavnya_epoha_pznannya_zeml.md)
    * [Пізнання землі у середні віки](1/pznannya_zeml_u_seredn_vki.md)
