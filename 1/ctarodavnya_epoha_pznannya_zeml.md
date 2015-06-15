@@ -30,7 +30,7 @@
 
 <div>
 {% modalYoutube %}https://www.youtube.com/embed/1THnJoJyPDw|
-<div class="popup" style="background-image: url('https://raw.githubusercontent.com/chudaol/ed-era-book-physics/master/book/chapter_1/vid/2.png');">
+<div class="popup" style="background-image: url('https://raw.githubusercontent.com/chudaol/ed-era-book-geography/master/images/1.png');">
   <div id="youtube-logo">
   </div>
 </div>
