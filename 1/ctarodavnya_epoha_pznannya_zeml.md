@@ -34,7 +34,7 @@
   <div id="youtube-logo">
   </div>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+|<a href="https://study.ed-era.com/courses/EdEra/G101/g101/about?_ga=1.67151697.1581692993.1410539408"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
 
 
