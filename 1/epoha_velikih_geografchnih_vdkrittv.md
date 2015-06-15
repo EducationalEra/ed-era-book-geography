@@ -16,7 +16,16 @@
 <p><i>Рисунок 9. Маршрут подорожi Васко да Гами</i></p>
 </div>
 
-{% modalYoutube %}https://www.youtube.com/embed/bmxMc1RuMJk|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/G101/g101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+
+<div>
+{% modalYoutube %}https://www.youtube.com/embed/bmxMc1RuMJk|
+<div class="popup" style="background-image: url('https://raw.githubusercontent.com/chudaol/ed-era-book-geography/master/images/1.png');">
+  <div id="youtube-logo">
+  </div>
+</div>
+|<a href="https://study.ed-era.com/courses/EdEra/G101/g101/about?_ga=1.67151697.1581692993.1410539408"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+</div>
+
 
 
 Одне з найвизначніших відкриттів в історії зробив <p1>Христофор Колумб</p1>. Спочатку він запропонував португальському королю <i>маршрут західного шляху до Індії</i>. Через великий ризик його спочатку не прийняли. Але пізніше <p1>іспанська королева Ізабелла</p1> підтримала цю пропозицію. Влітку 1492 року у складі трьох каравел - «<i>Санта-Марія</i>», «<i>Нінья</i>» і «<i>Пінта</i>» - експедиція вирушила на пошуки нового шляху до казково багатої Індії. Колумб вважав відкриті землі Індією, але то не була очікувана казкова земля. Видатний мореплавець здійснив <b>чотири</b> подорожі до берегів <i>Америки</i>. Він відкрив <i>Багамські острови, острови Куба та Гаїті, Малі Антильські острови, острів Трінідад</i>. До самої смерті Колумб був переконаний у тому, що відкрив шлях до Індії. 
