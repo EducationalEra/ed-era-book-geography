@@ -46,7 +46,7 @@
 </div>
 
 
-<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
 <question text="">
 <p>Хто з вчених перший визначив розміри Землі?</p>
 <answer correct>Ератосфен</answer>
