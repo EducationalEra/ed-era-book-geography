@@ -40,12 +40,20 @@
 </div>
 
 
-<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
 <question text="">
 <p>Хто створив перший глобус?</p>
 <answer correct>Мартін Бехайм</answer>
 <answer>Васко да Гама</answer>
 <answer>Бартоломеу Діаш</answer>
+</question>
+<question multiple>
+<p>Укажiть досягнення у сферi пiзнання землi у середнi вiки:</p>
+<answer correct>було доведено, що жарка приекваторiальна земля заселена </answer>
+<answer>на картi свiту вперше застосовано градусну сiтку</answer>
+<answer correct>ученi Китаю вперше здiйснили перепис населення</answer>
+<answer correct>вперше європейський мандрiвник вiдвiдав Китай</answer>
+<answer>землепрохiдцi змогли дiстатися берегiв Пiвнiчного Льодовитого i Тихого океанів</answer>
 </question>
 </quiz>
 
