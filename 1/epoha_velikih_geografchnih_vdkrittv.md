@@ -178,3 +178,20 @@
 </tr>
 </table>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="">
+<p>Укажiть iм’я мандрiвника, який здiйснив першу навколосвiтню подорож</p>
+<answer>Христофор Колумб</answer>
+<answer correct>Фернан Магеллан</answer>
+<answer>Васко да Гама</answer>
+<answer>Iбн Батута</answer>
+</question>
+<question multiple>
+<p>Укажiть досягнення у сферi пiзнання землi у середнi вiки:</p>
+<answer correct>було доведено, що жарка приекваторiальна земля заселена </answer>
+<answer>на картi свiту вперше застосовано градусну сiтку</answer>
+<answer correct>ученi Китаю вперше здiйснили перепис населення</answer>
+<answer correct>вперше європейський мандрiвник вiдвiдав Китай</answer>
+<answer>землепрохiдцi змогли дiстатися берегiв Пiвнiчного Льодовитого i Тихого океанів</answer>
+</question>
+</quiz>
