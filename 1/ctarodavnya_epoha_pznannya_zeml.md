@@ -26,17 +26,11 @@
 </div>
 
 
-
-
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/1THnJoJyPDw|
-<div class="popup" style="background-image: url('https://raw.githubusercontent.com/chudaol/ed-era-book-geography/master/images/1.png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/1THnJoJyPDw" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/G101/g101/about?_ga=1.67151697.1581692993.1410539408"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
 </div>
-
 
 Період античної географії завершується працями <p1>Клавдія Птолемея</p1> «Альмагест» (де він запевняє, що Земля є центром Всесвіту) та «Порадник з географії» у восьми книгах. До них додавалося 27 карт, одна з яких - <i>загальна карта світу</i>, інші – карти окремих частин світу. На карті світу Птолемей <i>застосував градусну сітку</i>. Птолемеївська геоцентрична система світу, а також математична теорія руху планет навколо нерухомої Землі, була актуальною до 1543 року, коли польський астроном Микола Коперник запропонував альтернативну, геліоцентричну систему. Тобто ця теорія панувала 1500 років.
 
