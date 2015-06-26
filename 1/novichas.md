@@ -45,5 +45,3 @@
 <img src="../pics/livingstone.svg" width="400px" class="center"/>
 <p><i>Рисунок 1.18: Дослідження Девіда Лівінгстона</i></p>
 </div>
-
-
