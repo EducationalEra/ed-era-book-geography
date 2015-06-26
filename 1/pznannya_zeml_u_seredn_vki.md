@@ -29,7 +29,7 @@
 
 <div class="center">
 <img src="../pics/MartinPath.png" width="500px" class="center"/>
-<p><i>Рисунок 7. Півкулі глобуса Бехайма</i></p>
+<p><i>Рисунок 1.7 Півкулі глобуса Бехайма</i></p>
 </div>
 
 <div class="add-wrap">
