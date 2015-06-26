@@ -11,7 +11,7 @@
 Видатний мореплавець і дослідник того часу англієць <span class="p1">Джеймс Кук<span> здійснив три навколосвітні подорожі.
 
 <div class="center">
-<img src="../pics/1pic.jpg" width="400px" class="center"/>
+<img src="../pics/kuk.svg" width="400px" class="center"/>
 <p><i>Рисунок 1.15  Маршрут плавання Джеймса Кука</i></p>
 </div>
 
