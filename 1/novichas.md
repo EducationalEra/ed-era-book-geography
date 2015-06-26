@@ -43,5 +43,7 @@
 
 <div class="center">
 <img src="../pics/livingstone.svg" width="400px" class="center"/>
-<p><i>Рисунок 1.18:  Подорожі Миклухо-Маклая</i></p>
+<p><i>Рисунок 1.18: Дослідження Девіда Лівінгстона</i></p>
 </div>
+
+
