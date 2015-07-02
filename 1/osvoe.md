@@ -26,14 +26,6 @@
 <p align="center">Табл> 1: Дослідження південних широт</p>
 
 <table>
-<tr>
-<td align="center" width="35%">Вiкiнги<br>
-(IX-XV ст.)</td>
-<td align="center" width="35%">Марко Поло<br>
-(1254-1324 рр.)</td>
-<td align="center" width="35%">Афанасiй Нiкiтiн<br>
-(?-1475 р.)</td>
-</tr>
 <tr style="height:100px">
 <td valign="top">
 <ul>
