@@ -1,5 +1,13 @@
 # Освоєння полярних широт
 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/6erqAr9r-2c" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
+
 У XX ст. було організовано експедиції до полюсів Землі. Так, 6 квітня 1909 року, американський полярний мандрівник <span class="p1">Роберт Пірі</span> з п’ятьма своїми супутниками досяг Північного географічного полюса. Ім’ям Роберта Пірі названо один з півостровів Гренландії.
 
 <div class="center">
