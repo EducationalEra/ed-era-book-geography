@@ -69,3 +69,21 @@
 <img src="../pics/livingstone.svg" width="400px" class="center"/>
 <p><i>Рисунок 1.18: Дослідження Девіда Лівінгстона</i></p>
 </div>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="">
+<p>На честь кого названо протоку між Азією та Америкою?</p>
+<answer>Френсіс Дрейк</answer>
+<answer correct>Вітус Беринг</answer>
+<answer>Семен Дєжньов</answer>
+<answer>Iбн Батута</answer>
+</question>
+<question text="">
+<p>Хто розпочав колонізацію Австралії?</p>
+<answer>Абель Тасман</answer>
+<answer correct>Джеймс Кук</answer>
+<answer>Семен Дєжньов</answer>
+<answer>Микола Миклухо-Маклай</answer>
+</question>
+</quiz>
