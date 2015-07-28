@@ -14,7 +14,7 @@
 
 <div class="space">
 <div class="center">
-<img src="../pics/piri.svg" width="400px" class="center"/>
+<img src="../pics/piri.jpg" width="400px" class="center"/>
 <p><i>Рисунок 1.18:  Подорож Роберта Пірі</i></p>
 </div>
 </div>
