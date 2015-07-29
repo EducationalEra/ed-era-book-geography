@@ -4,6 +4,6 @@ $(document).load($(window).bind(pupsik));
     {
         if ($( "div" ).hasClass( "with-summary" ))
         {
-        console.log(1);
+        $window.alert(1);
       }
     }
