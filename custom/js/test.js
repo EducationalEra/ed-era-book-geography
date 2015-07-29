@@ -4,7 +4,6 @@ $(document).load($(window).bind(pupsik));
     {
         if ($( ".book" ).hasClass( "foo" ))
         {
-          console.log(1);
           if($(window).width() < 820px)
           {
               $(".text").css({'visibility': 'hidden', 'width': '1px','height':'1px'});
