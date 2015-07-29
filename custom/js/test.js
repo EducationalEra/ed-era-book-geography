@@ -4,6 +4,6 @@ $(document).load($(window).bind(pupsik));
     {
         if ($( "div" ).hasClass( "with-summary" ))
         {
-        $("div.book-body").css({"color", "yellow"});
+        console.log(1);
       }
     }
