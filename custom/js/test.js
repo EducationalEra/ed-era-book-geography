@@ -4,7 +4,7 @@ $(document).load($(window).bind(pupsik));
     {
         if ($( "div" ).hasClass( "with-summary" ))
         {
-        $("div.with-summary").css({"background": "yellow"});
+        $("div.book-body").css({"background": "yellow"});
           /*if($(window).width() < 820px)
           {
               $(".text").css({'visibility': 'hidden', 'width': '1px','height':'1px'});
