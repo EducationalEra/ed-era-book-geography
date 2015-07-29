@@ -4,7 +4,7 @@ $(document).load($(window).bind(pupsik));
     {
         if ($( "div" ).hasClass( "with-summary" ))
         {
-        $(".with-summary").css({"font-style": "italic"});
+        $("div.with-summary").css({"font-style": "italic"});
           /*if($(window).width() < 820px)
           {
               $(".text").css({'visibility': 'hidden', 'width': '1px','height':'1px'});
