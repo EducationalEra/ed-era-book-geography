@@ -8,4 +8,4 @@
 
 У 1948 році було засновано <span class="p1">Міжнародний союз охорони природи</span> (МСОП), метою якого була розрока Всесвітньої стратегії охорони природи. 
 
-dsjfndkv mklfsd  <span style="border: 1px;">dsfsd dsf sdf </span>
+dsjfndkv mklfsd  <span class="pad">dsfsd dsf sdf </span>
