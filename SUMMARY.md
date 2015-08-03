@@ -13,7 +13,7 @@
 * [Земля на планi та картi](2/zemlya_na_plani_ta_karti.md)
    * [Географiя як наука](2/zemlya_na_plani_ta_karti.md)
        * [Земля з повiтря](2/zemlya_na_plani_ta_karti.md)
-       * Масштаб
+       * [Масштаб](2/masshtab.md)
        * Глобус
        * Карта
        * Картографiчна проекцiя
