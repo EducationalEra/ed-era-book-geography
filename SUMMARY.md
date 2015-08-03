@@ -12,7 +12,7 @@
    * [Географiчнi дослiдження на територiї України](1/Ukr.md)
 * [Земля на планi та картi](2/zemlya_na_plani_ta_karti.md)
    * [Географiя як наука](geografiya_yak_nauka.md)
-       * Земля з повiтря
+       * [Земля з повiтря](zemlya_z_povitrya.md)
        * Масштаб
        * Глобус
        * Карта
