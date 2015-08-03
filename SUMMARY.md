@@ -11,7 +11,7 @@
    * [Мiжнароднi дослiдження земної кулi](1/international.md)
    * [Географiчнi дослiдження на територiї України](1/Ukr.md)
 * [Земля на планi та картi](2/zemlya_na_plani_ta_karti.md)
-   * [Географiя як наука](geografiya_yak_nauka.md)
+   * [Географiя як наука](2/zemlya_na_plani_ta_karti.md)
        * [Земля з повiтря](zemlya_z_povitrya.md)
        * Масштаб
        * Глобус
