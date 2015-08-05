@@ -8,7 +8,11 @@
 </div>
 </div>
 
-![image_globe](japan-248123_640.jpg)
+
+<div align="center">
+<img src="japan-248123_640.jpg" alt="globe image" />
+</div>
+
 
 За масштабом глобуси поділяють на 
 * великі (1 : 30 000 000); 
