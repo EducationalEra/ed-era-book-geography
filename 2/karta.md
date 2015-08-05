@@ -14,7 +14,7 @@
 горизонту.
 
 <div class="ebio-wrap">
-<span class="ebio"></span>
+<span class="ebio">Прикладка</span>
 <div class="ebio-text">
 Вертикальні лінії – це <span class="p1">меридіани</span>, які вказують напрямок північ–південь.<br> 
 Горизонтальні лінії – це <span class="p1">паралелі</span>, що вказують напрямок захід–схід.
