@@ -44,7 +44,7 @@
     
 
 <div align="center">
-<img src="1.jpg" width="450">
+<img src="1.jpg" width="500">
 </div>
 
 -   материків, океанів та їх частин;
