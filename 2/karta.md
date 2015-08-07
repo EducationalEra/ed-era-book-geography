@@ -56,7 +56,7 @@
 -   держав та їх частин.
 
 <div align="center">
-<img src="Eric_Gaba.3pg" width="300">
+<img src="Eric_Gaba.jpg" width="300">
 </div>
 
 
