@@ -44,19 +44,19 @@
     
 
 <div align="center">
-<img src="1.jpg" width="500">
+<img src="1.jpg" width="700">
 </div>
 
 -   материків, океанів та їх частин;
 
 <div align="center">
-<img src="2.jpg" width="300">
+<img src="2.jpg" width="400">
 </div>
 
 -   держав та їх частин.
 
 <div align="center">
-<img src="Eric_Gaba.jpg" width="300">
+<img src="Eric_Gaba.jpg" width="400">
 </div>
 
 
