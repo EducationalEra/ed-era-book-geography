@@ -42,6 +42,7 @@
 
 -   світові та півкуль;
     
+
 <div align="center">
 <img src="1.jpg" width="450">
 </div>
@@ -57,6 +58,8 @@
 <div align="center">
 <img src="Eric_Gaba.3pg" width="300">
 </div>
+
+
 
 3.  За змістом:
 
