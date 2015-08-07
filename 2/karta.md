@@ -51,7 +51,8 @@
 <div align="center">
 <img src="2.jpg" width="300">
 </div>
-    -   держав та їх частин.
+
+-   держав та їх частин.
 
 <div align="center">
 <img src="Eric_Gaba.3pg" width="300">
