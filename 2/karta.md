@@ -40,17 +40,17 @@
 
 2.  За охопленням території :
 
-<ul><li>світові та півкуль;</li><br/></ul>
+<ul><li>світові та півкуль;</li><br/>
 <div align="center">
 <img src="1.jpg" width="700">
 </div>
 
-<ul><li>материків, океанів та їх частин;</li><br/></ul>
+<ul><li>материків, океанів та їх частин;</li><br/>
 <div align="center">
 <img src="2.jpg" width="400">
 </div>
 
-<ul><li>держав та їх частин.</li><br/></ul>
+<ul><li>держав та їх частин.</li><br/>
 <div align="center">
 <img src="Eric_Gaba.jpg" width="400">
 </div>
