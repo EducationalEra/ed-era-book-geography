@@ -41,10 +41,21 @@
 2.  За охопленням території :
 
     -   світові та півкуль;
+    
+<div align="center">
+<img src="1.jpg" width="450">
+</div>
 
     -   материків, океанів та їх частин;
 
+<div align="center">
+<img src="2.jpg" width="300">
+</div>
     -   держав та їх частин.
+
+<div align="center">
+<img src="Eric_Gaba.3pg" width="300">
+</div>
 
 3.  За змістом:
 
