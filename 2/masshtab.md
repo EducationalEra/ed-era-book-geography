@@ -20,8 +20,6 @@
 <div align="center">
 <img src="pic7.png" />
 </div>
-<br/>
-
 
 <div class="space">
 <div class="exmpl-wrap">
