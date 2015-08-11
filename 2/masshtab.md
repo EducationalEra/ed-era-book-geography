@@ -18,7 +18,7 @@
 * <span class="p1">лінійний</span> (у вигляді лінійки).
 
 <div align="center">
-<img src="pic7.png">
+<img src="pic7.png" />
 </div>
 <br/>
 
