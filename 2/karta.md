@@ -37,7 +37,7 @@
     </ul><br/>
 <li>За охопленням території :</li>
 
-<ul><ul><li><span class="p1">світові та півкуль;</span></li><br/>
+<ul><li><span class="p1">світові та півкуль;</span></li><br/>
 <div align="center">
 <img src="1.jpg" width="700">
 </div>
@@ -51,7 +51,6 @@
 <div align="center">
 <img src="Eric_Gaba.jpg" width="400">
 </div>
-</ul>
 </ul>
 
 
