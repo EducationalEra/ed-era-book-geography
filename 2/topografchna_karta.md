@@ -36,7 +36,7 @@
 
 <div class="space">
 <div class="center">
-<img src="pic11.jpg" width="320px" class="center"/>
+<img src="pic11.jpg" width="490px" class="center"/>
 <p><i>Рисунок 3.4.1:  Фрагмент топографiчної карти</i></p>
 </div>
 </div>
