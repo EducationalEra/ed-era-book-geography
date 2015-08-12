@@ -24,11 +24,11 @@
 <table>
 <tr>
 <td  align="center" style="width: 50%;">
-<span class="p1">План</span>
+<b>План</b>
 </td>
 
-<td valign="top" align="center">
-<span class="p1">Карта</span>
+<td align="center">
+<b>Карта</b>
 </td>
 </tr>
 <tr>
