@@ -7,7 +7,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/1pic.jpg" width="400px" class="center"/>
-<p><i>Рисунок 1.1:  Уявлення стародавніх індійців про землю</i></p>
+<p><i>Рисунок 2.1.1:  Уявлення стародавніх індійців про землю</i></p>
 </div>
 </div>
 
@@ -21,7 +21,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/finik.jpg" width="300px" class="center"/>
-<p><i>Рисунок 1.2: Маршрут подорожі фінікійців (600 р. до н.є.)</i></p>
+<p><i>Рисунок 2.1.2: Маршрут подорожі фінікійців (600 р. до н.є.)</i></p>
 </div>
 </div>
 
@@ -36,7 +36,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/pic4.png" width="500px" class="center"/>
-<p><i>Рисунок 1.3:  Світ за Ератосфеном</i></p>
+<p><i>Рисунок 2.1.3:  Світ за Ератосфеном</i></p>
 </div>
 </div>
 
@@ -56,7 +56,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/pic5.jpg" width="500px" class="center"/>
-<p><i>Рисунок 1.4:  Карта світу з "Географії Птолемея"</i></p>
+<p><i>Рисунок 2.1.4:  Карта світу з "Географії Птолемея"</i></p>
 </div>
 </div>
 
