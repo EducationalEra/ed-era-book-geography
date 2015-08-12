@@ -159,7 +159,8 @@ default – "White"
     font-weight: bold;
     padding-left:10px;
     padding-right:10px;
-    margin-bottom:5px;
+    margin-bottom: 1em;
+    margin-top: 1em;
 }
 .exmpl-text {
     width:100%;
@@ -200,7 +201,8 @@ default – "White"
 Цікаво
 */
 .add-wrap{
-    margin-bottom:1em;
+    margin-bottom: 1em;
+    margin-top: 1em;
 }
 .add {
     background: #0F5181;
