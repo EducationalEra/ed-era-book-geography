@@ -16,12 +16,13 @@
 </div>
 </div>
 
-<div class="space">
-<div class="center">
-<img src="pic10.jpg" width="320px" class="center"/>
-</div><br/>
+
+<div style="float: right; margin: 0 0 10px 10px;">
+<img src="pic10.jpg" width="320px"/>
+<br/>
 <p align="right"><i>Автор зображення:</i> Hellerick</p>
 </div>
+
 
 Спотворення тут практично відсутні, а об’єкти місцевості передані
 достатньо детально. В основі топографічних карт лежить так звана
