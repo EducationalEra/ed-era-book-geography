@@ -23,7 +23,7 @@
 
 <table>
 <tr>
-<td  align="center">
+<td  align="center" style="width: 50%;">
 <span class="p1">План</span>
 </td>
 
