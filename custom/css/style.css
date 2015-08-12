@@ -258,7 +258,8 @@ default – "White"
     font-weight: bold;
     padding-left:10px;
     padding-right:10px;
-    margin-bottom:5px;
+    margin-bottom: 1em;
+    margin-top: 1em;
 }
 .ebio-text {
     width:100%;
