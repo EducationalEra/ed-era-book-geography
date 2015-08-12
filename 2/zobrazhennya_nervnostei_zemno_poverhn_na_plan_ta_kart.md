@@ -83,8 +83,8 @@
 карті.
 
 
-![image](pic6.jpg)
+![image](pic6.jpg)<br/>
 Нівелір
 <br/>
-![image](Nivelir.jpg)
+![image](Nivelir.jpg)<br/>
 Нівелювання
