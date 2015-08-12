@@ -17,8 +17,8 @@
 </div>
 
 
-<div style="float: right; margin: 0 0 10px 10px;">
-<img src="pic10.jpg" width="320px"/>
+<div style="float: right; margin: 0 0 10px 5px;">
+<img src="pic10.jpg" width="240px"/>
 <br/>
 <p align="right"><i>Автор зображення:</i> Hellerick</p>
 </div>
