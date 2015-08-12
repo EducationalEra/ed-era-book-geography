@@ -82,14 +82,8 @@
 карті.
 
 
-
-![image](pic6)
-
-
-![image](pic7)
-
-
+![image](pic6.jpg)
 Нівелір
 
-
+![image](Nivelir.jpg)
 Нівелювання
