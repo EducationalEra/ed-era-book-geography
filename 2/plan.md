@@ -26,11 +26,11 @@
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" align="center">
 <span class="p1">План</span>
 </td>
 
-<td valign="top">
+<td valign="top" align="center">
 <span class="p1">Карта</span>
 </td>
 </tr>
