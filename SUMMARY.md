@@ -22,7 +22,7 @@
        * [Орієнтування на місцевості](2/orntuvannya_na_mstsevost.md)
    * [Зображення нерівностей земної поверхні на плані та карті](2/zobrazhennya_nervnostei_zemno_poverhn_na_plan_ta_kart.md)
    * [Градусна сітка Землі. Географічні координати точок](2/gradusna_stka_zeml_geografchn_koordinati_tochok.md)
-   * Топографічна карта
+   * [Топографічна карта](2/topografchna_karta.md)
 * Наука географiя
    * Географiя як наука
    * Геологiчний час
