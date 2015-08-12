@@ -3,7 +3,7 @@
 
 <div class="space">
 <div class="center">
-<img src="pic9.png" width="620px" class="center"/>
+<img src="pic9.png" width="570px" class="center"/>
 <p><i>Рисунок 3.4.1:  Створення топографічної карти</i></p>
 </div><br/>
 <p align="right"><i>Автор зображення:</i> Hellerick</p>
