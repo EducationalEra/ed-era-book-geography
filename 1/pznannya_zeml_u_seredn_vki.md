@@ -9,7 +9,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/ibnBattutaMap.jpg" width="500px" class="center"/>
-<p><i>Рисунок 1.5:  Маршрут подорожi Iбн Батути</i></p>
+<p><i>Рисунок 2.2.1:  Маршрут подорожi Iбн Батути</i></p>
 </div>
 </div>
 
@@ -31,7 +31,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/pic6.jpg" width="500px" class="center"/>
-<p><i>Рисунок 1.6: Маршрут подорожі Марко Поло</i></p>
+<p><i>Рисунок 2.2.2: Маршрут подорожі Марко Поло</i></p>
 </div>
 </div>
 
@@ -40,7 +40,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/MartinPath.png" width="500px" class="center"/>
-<p><i>Рисунок 1.7: Півкулі глобуса Бехайма</i></p>
+<p><i>Рисунок 2.2.3: Півкулі глобуса Бехайма</i></p>
 </div>
 </div>
 
