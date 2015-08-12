@@ -42,7 +42,7 @@
 <div class="space">
 <div class="center">
 <img src="pic5-5.png" width="400px" class="center"/>
-<p><i>Рисунок 2:  Горизонталi та берштрихи</i></p>
+<p><i>Рисунок 3.2.1:  Горизонталi та берштрихи</i></p>
 </div>
 </div>
 
