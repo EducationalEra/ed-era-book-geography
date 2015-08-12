@@ -13,7 +13,7 @@
 
 <div class="space">
 <div class="center">
-<img src="earth1.jpg" width="600" class="center"/>
+<img src="earth11.jpg" width="600" class="center"/>
 <p><i>Рисунок 3.3.1: Градусна сітка</i></p>
 </div>
 </div>
