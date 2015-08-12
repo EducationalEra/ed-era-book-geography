@@ -85,6 +85,6 @@
 
 ![image](pic6.jpg)
 Нівелір
-
+<br/>
 ![image](Nivelir.jpg)
 Нівелювання
