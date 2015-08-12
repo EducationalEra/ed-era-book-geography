@@ -15,7 +15,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/piri.png" width="400px" class="center"/>
-<p><i>Рисунок 1.18:  Подорож Роберта Пірі</i></p>
+<p><i>Рисунок 2.5.1:  Подорож Роберта Пірі</i></p>
 </div>
 </div>
 
@@ -26,11 +26,11 @@
 <div class="space">
 <div class="center">
 <img src="../pics/amund.png" width="400px" class="center"/>
-<p><i>Рисунок 1.19:  Маршрути експедицій Амундсена та Скотта</i></p>
+<p><i>Рисунок 2.5.2:  Маршрути експедицій Амундсена та Скотта</i></p>
 </div>
 </div>
 
-<p align="center">Табл. 1.3: Дослідження південних широт</p>
+<p align="center">Табл. 2.5.1: Дослідження південних широт</p>
 <div class="space">
 <table>
 <tr style="height:100px">
@@ -48,7 +48,7 @@
 </table>
 </div>
 
-<p align="center">Табл. 1.4: Дослідження північних широт</p>
+<p align="center">Табл. 2.5.2: Дослідження північних широт</p>
 
 <table>
 <tr style="height:100px">
