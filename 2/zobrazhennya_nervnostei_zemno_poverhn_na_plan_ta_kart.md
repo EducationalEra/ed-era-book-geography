@@ -82,10 +82,18 @@
 глибше і чим вище, тим темніший колір. Шкала глибин і висот є на кожній
 карті.
 
+<div class="space">
+<div class="center">
+<img src="pic6.jpg" width="250px" class="center"/>
+<p><i>Рисунок 3.2.1:  Нівелір</i></p>
+</div>
+</div>
 
-![image](pic6.jpg)<br/>
-Нівелір
-<br/>
-![image](Nivelir.jpg)<br/>
-Нівелювання
+<div class="space">
+<div class="center">
+<img src="Nivelir.jpg" width="400px" class="center"/>
+<p><i>Рисунок 3.2.2:  Нівелювання</i></p>
+</div>
+</div>
+
 
