@@ -18,7 +18,7 @@
 
 <div class="space">
 <div class="center">
-<img src="pic10.png" width="320px" class="center"/>
+<img src="pic10.jpg" width="320px" class="center"/>
 </div><br/>
 <p align="right"><i>Автор зображення:</i> Hellerick</p>
 </div>
