@@ -36,7 +36,7 @@
 
 <div class="center">
 <img src="../pics/bel.jpg" width="720px" class="center"/>
-<p><i>Рисунок 1.16:  Маршрут плавання Беллінсгаузена і Лазарєва</i></p>
+<p><i>Рисунок 2.4.1:  Маршрут плавання Беллінсгаузена і Лазарєва</i></p>
 </div>
 
 
@@ -55,7 +55,7 @@
 
 <div class="center">
 <img src="../pics/macLai.jpg" width="400px" class="center"/>
-<p><i>Рисунок 1.17:  Подорожі Миклухо-Маклая</i></p>
+<p><i>Рисунок 2.4.2:  Подорожі Миклухо-Маклая</i></p>
 </div>
 
 
@@ -67,7 +67,7 @@
 
 <div class="center">
 <img src="../pics/livingstone.jpg" width="400px" class="center"/>
-<p><i>Рисунок 1.18: Дослідження Девіда Лівінгстона</i></p>
+<p><i>Рисунок 2.4.3: Дослідження Девіда Лівінгстона</i></p>
 </div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
