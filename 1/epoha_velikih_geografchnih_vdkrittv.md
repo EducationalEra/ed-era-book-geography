@@ -9,7 +9,7 @@
 
 <div class="center">
 <img src="../pics/pic9.jpg" width="300px" class="center"/>
-<p><i>Рисунок 1.8: Маршрут подорожi Бартоломео Дiаша</i></p>
+<p><i>Рисунок 2.3.1: Маршрут подорожi Бартоломео Дiаша</i></p>
 </div>
 
 <h3>Васко да Гама</h3>
@@ -20,7 +20,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/pic10.jpg" width="400px" class="center"/>
-<p><i>Рисунок 1.9: Маршрут подорожi Васко да Гами</i></p>
+<p><i>Рисунок 2.3.2: Маршрут подорожi Васко да Гами</i></p>
 </div>
 </div>
 
@@ -38,7 +38,7 @@
 
 <div class="center">
 <img src="../pics/pic11.jpg" width="600px" class="center"/>
-<p><i>Рисунок 1.10: Подорожi Христофора Колумба</i></p>
+<p><i>Рисунок 2.3.3: Подорожi Христофора Колумба</i></p>
 </div>
 
 <h3>Амеріґо Веспуччі</h3>
@@ -65,7 +65,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/pic12.jpg" width="600px" class="center"/>
-<p><i>Рисунок 1.11: Навколосвiтня подорож Магеллана</i></p>
+<p><i>Рисунок 2.3.4: Навколосвiтня подорож Магеллана</i></p>
 </div>
 </div>
 
@@ -77,7 +77,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/pic13.jpg" width="400px" class="center"/>
-<p><i>Рисунок 1.12: Подорож Абеля Тасмана</i></p>
+<p><i>Рисунок 2.3.5: Подорож Абеля Тасмана</i></p>
 </div>
 </div>
 
@@ -89,7 +89,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/pic14.jpg" width="400px" class="center"/>
-<p><i>Рисунок 1.13:  Подорож Семена Дежньова</i></p>
+<p><i>Рисунок 2.3.6:  Подорож Семена Дежньова</i></p>
 </div>
 </div>
 
@@ -101,7 +101,7 @@
 <div class="space">
 <div class="center">
 <img src="../pics/pic15.jpg" width="600px" class="center"/>
-<p><i>Рисунок 1.14: Маршрут подорожi Френсiса Дрейка</i></p>
+<p><i>Рисунок 2.3.7: Маршрут подорожi Френсiса Дрейка</i></p>
 </div>
 </div>
 
@@ -115,7 +115,7 @@
 </div>
 
 <div class="space">
-<p align="center">Табл. 1.1: Мандрiвки середньовiччя</p>
+<p align="center">Табл. 2.3.1: Мандрiвки середньовiччя</p>
 
 <table>
 <tr>
@@ -152,7 +152,7 @@
 </div>
 
 <div class="space">
-<p align="center">Табл. 1.2: Епоха великих географiчних видкриттiв</p>
+<p align="center">Табл. 2.3.2: Епоха великих географiчних видкриттiв</p>
 <table>
 <tr>
 <td width="15%">1487 р.</td>
