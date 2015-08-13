@@ -23,7 +23,7 @@
    * [Зображення нерівностей земної поверхні на плані та карті](2/zobrazhennya_nervnostei_zemno_poverhn_na_plan_ta_kart.md)
    * [Градусна сітка Землі. Географічні координати точок](2/gradusna_stka_zeml_geografchn_koordinati_tochok.md)
    * [Топографічна карта](2/topografchna_karta.md)
-* Наука географiя
+* [Наука географiя](2/nauka_geografiya.md)
    * Географiя як наука
    * Геологiчний час
    * Рух Землi у космосi
