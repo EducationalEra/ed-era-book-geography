@@ -25,7 +25,7 @@
    * [Топографічна карта](2/topografchna_karta.md)
 * [Наука географiя](2/nauka_geografiya.md)
    * [Географiя як наука](2/nauka_geografiya.md)
-   * Геологiчний час
+   * [Геологiчний час](2/geologichnii_chas.md)
    * Рух Землi у космосi
    * Часовi пояси
 * Лiтосфера
