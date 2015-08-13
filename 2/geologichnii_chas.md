@@ -34,9 +34,9 @@
 <div class="space">
 <table>
 <tr>
-<td>Ера (млн рокiв)</td>
-<td>Перiоди горотворення</td>
-<td>Найважливiшi подiї</td>
+<td><span class="p1">Ера</span> (млн рокiв)</td>
+<td><span class="p1">Перiоди горотворення</span></td>
+<td><span class="p1">Найважливiшi подiї</span></td>
 </tr>
 <tr>
 <td><b>Архейська (2700-3800)</b></td>
