@@ -89,5 +89,13 @@
 </div>
 </div>
 
+<div class="space">
+<div class="center">
+<img src="merydian.jpg" alt="Дійсний меридіан" class="center"/>
+<p><i>Рисунок 3.4.2:  Дійсний меридіан</i></p>
+</div>
+</div>
 
-![Дійсний меридіан](pic12)
+![]()
+
+![](pic12)
