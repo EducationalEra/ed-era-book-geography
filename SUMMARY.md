@@ -24,7 +24,7 @@
    * [Градусна сітка Землі. Географічні координати точок](2/gradusna_stka_zeml_geografchn_koordinati_tochok.md)
    * [Топографічна карта](2/topografchna_karta.md)
 * [Наука географiя](2/nauka_geografiya.md)
-   * [Географiя як наука](geografiya_yak_nauka.md)
+   * [Географiя як наука](2/nauka_geografiya.md)
    * Геологiчний час
    * Рух Землi у космосi
    * Часовi пояси
