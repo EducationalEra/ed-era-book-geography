@@ -92,6 +92,6 @@
 <div class="space">
 <div class="center">
 <img src="merydian.jpg" alt="Дійсний меридіан" class="center"/>
-<p><i>Рисунок 3.4.2:  Дійсний меридіан</i></p>
+<p style="margin-top: 5px;"><i>Рисунок 3.4.2:  Дійсний меридіан</i></p>
 </div>
 </div>
