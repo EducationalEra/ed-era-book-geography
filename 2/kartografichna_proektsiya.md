@@ -30,6 +30,7 @@
     зображується екватор: він є другою віссю симетрії.
 </li>
 </ul>
+
 <div aling="center">
 <img src="azimuth.jpg">
 </div>
