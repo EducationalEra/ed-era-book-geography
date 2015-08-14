@@ -24,7 +24,7 @@
 </ul>
 
 <p aling="center">
-<img align="center" src="azimuth.jpg"/>
+<img src="azimuth.jpg"/>
 </p>
 
 <ul>
