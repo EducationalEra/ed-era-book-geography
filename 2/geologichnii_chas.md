@@ -5,7 +5,7 @@
 <div class="space">
 <div class="center">
 <img src="1.png" width="400px" class="center"/>
-<p><i>Рисунок 4.1.1:  Геохронологiчна шкала</i></p>
+<p><i>Рисунок 4.2.1:  Геохронологiчна шкала</i></p>
 </div>
 </div>
 
