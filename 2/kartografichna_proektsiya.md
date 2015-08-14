@@ -23,9 +23,9 @@
 </li>
 </ul>
 
-<div aling="center">
+<p aling="center">
 <img align="center" src="azimuth.jpg"/>
-</div>
+</p>
 
 <ul>
 <li><b>Цилірдрична</b> проекція створюється шляхом проектування місцевості
