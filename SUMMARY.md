@@ -26,7 +26,7 @@
 * [Наука географiя](2/nauka_geografiya.md)
    * [Географiя як наука](2/nauka_geografiya.md)
    * [Геологiчний час](2/geologichnii_chas.md)
-   * Рух Землi у космосi
+   * [Рух Землi у космосi](2/ruh_zemli_u_kosmosi.md)
    * Часовi пояси
 * Лiтосфера
    * Внутрiшня будова Землi
