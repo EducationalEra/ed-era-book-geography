@@ -49,7 +49,7 @@
 </ul>
 
 <div aling="center">
-<img src="cylindr.jpg" style="border:1px solid gray;"/>
+<img src="cylindr.jpg" style="border:1px solid #EFEFEF;"/>
 </div>
 
 <ul>
@@ -60,5 +60,5 @@
 </ul>
 
 <div aling="center">
-<img src="geog_kon1.jpg" style="border:1px solid gray;"/>
+<img src="geog_kon1.jpg" style="border:1px solid #EFEFEF;"/>
 </div>
