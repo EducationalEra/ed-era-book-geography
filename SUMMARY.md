@@ -27,7 +27,7 @@
    * [Географiя як наука](2/nauka_geografiya.md)
    * [Геологiчний час](2/geologichnii_chas.md)
    * [Рух Землi у космосi](2/ruh_zemli_u_kosmosi.md)
-   * Часовi пояси
+   * [Часовi пояси](2/chasovi_poyasi.md)
 * Лiтосфера
    * Внутрiшня будова Землi
    * Гiрськi породи та мiнерали
