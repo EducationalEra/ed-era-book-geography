@@ -3,7 +3,7 @@
 
 
 <div class="space">
-<div class="center">
+<div align="center">
 <img src="1.png" width="400px" class="center"/>
 <p><i>Рисунок 4.2.1:  Геохронологiчна шкала</i></p>
 </div>
