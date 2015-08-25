@@ -25,7 +25,7 @@
  
 <div class="space">
 <div class="center">
-<img src="../pics/amund.png" width="400px" class="center"/>
+<img src="../pics/amund.png" width="600px" class="center"/>
 <p><i>Рисунок 2.5.2:  Маршрути експедицій Амундсена та Скотта</i></p>
 </div>
 </div>
