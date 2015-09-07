@@ -329,6 +329,12 @@ default – "White"
     height: 100%;
 }
 
+.wrap-wrap {
+    width: 100%;
+	margin: 0;
+	display: block;
+}
+
 /*Для таблицы*/
 .left {
     font-weight: 400;
