@@ -330,6 +330,7 @@ default – "White"
     top: 0; 
     left: 0;
     width: 100%;
+    display: block;
 }
 
 /*Для таблицы*/
