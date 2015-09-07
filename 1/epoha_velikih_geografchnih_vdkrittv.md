@@ -214,11 +214,13 @@
 </table>
 </div>
 
+<div class="wrap-wrap">
 <div class="map-wrap">
   	<img class="maps" src="jamesCook_base.jpg"/>
   	<img id="map1" class="maps" src="map1.png"/>
   	<img id="map2" class="maps" src="map2.png"/>
   	<img id="map3" class="maps" src="map3.png"/>
+</div>
 </div>
 <ul>
 	<li><input type="checkbox" id="map1" name="check" />
