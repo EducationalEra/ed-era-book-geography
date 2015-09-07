@@ -220,18 +220,18 @@
   	<img width="100%" id="map2" class="maps" style="position: absolute; top: 0; left: 0;" src="map2.png"/>
   	<img width="100%" id="map3" class="maps" style="position: absolute; top: 0; left: 0;" src="map3.png"/>
 </div>
-		<ul id="checkList" style="list-style-type: none; padding:0; margin:0;">
-			<li><input type="checkbox" id="map1" name="check" />
-				<label for="squaredThree">asdasd dsa das d</label>
-			</li>
-			<li><input type="checkbox" id="map2" name="check" />
-				<label for="squaredThree">asdasd dsa das d</label>
-			</li>
-			<li><input type="checkbox" id="map3" name="check" />
-				<label for="squaredThree">asdasd dsa das d</label>
-			</li>
-		</ul>
-		<button class="show-map">Переглянути маршрути</button>
+<ul id="checkList" style="list-style-type: none; padding:0; margin:0;">
+	<li><input type="checkbox" id="map1" name="check" />
+		<label for="squaredThree">asdasd dsa das d</label>
+	</li>
+	<li><input type="checkbox" id="map2" name="check" />
+		<label for="squaredThree">asdasd dsa das d</label>
+	</li>
+	<li><input type="checkbox" id="map3" name="check" />
+		<label for="squaredThree">asdasd dsa das d</label>
+	</li>
+</ul>
+<div class="buttons show-map">Переглянути маршрути</div>
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
