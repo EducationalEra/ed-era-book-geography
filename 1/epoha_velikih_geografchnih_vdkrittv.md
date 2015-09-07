@@ -214,7 +214,7 @@
 </table>
 </div>
 
-<div>
+<div class="map-wrap">
   	<img class="maps" src="jamesCook_base.jpg"/>
   	<img id="map1" class="maps" src="map1.png"/>
   	<img id="map2" class="maps" src="map2.png"/>
