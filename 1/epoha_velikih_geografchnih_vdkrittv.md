@@ -232,7 +232,7 @@
 </ul>
 <div class="buttons show-map">Переглянути маршрути</div>
 </div>
-
+<!--
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
 <question text="">
 <p>Укажiть iм’я мандрiвника, який здiйснив першу навколосвiтню подорож</p>
@@ -249,3 +249,4 @@
 <answer correct>Френсiс Дрейк</answer>
 </question>
 </quiz>
+-->
