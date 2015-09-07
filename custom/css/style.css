@@ -317,6 +317,21 @@ default – "White"
     border-left:0.3em solid #FAFAFA;
 }
 
+/*Для карт*/
+.maps {
+    position: absolute; 
+    top: 0; 
+    left: 0;
+    width: 100%;
+}
+
+.map-wrap {
+    position: relative; 
+    top: 0; 
+    left: 0;
+    width: 100%;
+}
+
 /*Для таблицы*/
 .left {
     font-weight: 400;
@@ -328,10 +343,7 @@ default – "White"
     text-align: center;
     vertical-align:middle;
     font-size: 12pt;
-<<<<<<< HEAD
 }
-<<<<<<< HEAD
-=======
 
 .im:hover {
 -webkit-transform:scale(1.5);
