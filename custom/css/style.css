@@ -543,6 +543,12 @@ p1 {
     margin: 4px auto;
     padding: 2px 3px;
   }
+  
+  .wrap {
+    float: none;
+    margin: 5px auto;
+    width: 60%;
+  }
 }
 
 
@@ -575,5 +581,10 @@ p1 {
     margin: 18.5px 10px 20px 0px;
     padding: 4px 6px;
     font-size: 15px;
+  }
+  
+  .wrap {
+    float: left;
+    width: 100%;
   }
 }
