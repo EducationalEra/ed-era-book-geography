@@ -232,21 +232,3 @@
 </ul>
 <div class="buttons show-map">Переглянути маршрути</div>
 </div>
-<!--
-<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="">
-<p>Укажiть iм’я мандрiвника, який здiйснив першу навколосвiтню подорож</p>
-<answer>Христофор Колумб</answer>
-<answer correct>Фернан Магеллан</answer>
-<answer>Васко да Гама</answer>
-<answer>Iбн Батута</answer>
-</question>
-<question text="">
-<p>Укажiть iм’я мандрiвника, якого називали "залiзним пiратом"</p>
-<answer>Хуан Елькано</answer>
-<answer>Амерiго Веспуччi</answer>
-<answer>Христофор Колумб</answer>
-<answer correct>Френсiс Дрейк</answer>
-</question>
-</quiz>
--->
