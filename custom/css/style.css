@@ -585,6 +585,7 @@ p1 {
   
   .wrap {
     float: left;
+    margin-right: 15px;
     width: 180px;
   }
 }
