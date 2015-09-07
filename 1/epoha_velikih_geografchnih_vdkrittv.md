@@ -219,7 +219,7 @@
   	<img id="map1" class="maps" src="map1.png"/>
   	<img id="map2" class="maps" src="map2.png"/>
   	<img id="map3" class="maps" src="map3.png"/>
-<ul style="list-style-type: none;">
+<ul>
 	<li><input type="checkbox" id="map1" name="check" />
 		<label for="squaredThree">asdasd dsa das d</label>
 	</li>
@@ -230,5 +230,24 @@
 		<label for="squaredThree">asdasd dsa das d</label>
 	</li>
 </ul>
-<div class="buttons show-map">Переглянути маршрути</div>
+<div class="buttons">
+    <span class="btn show-label show-map">Переглянути маршрути</span>
 </div>
+</div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="">
+<p>Укажiть iм’я мандрiвника, який здiйснив першу навколосвiтню подорож</p>
+<answer>Христофор Колумб</answer>
+<answer correct>Фернан Магеллан</answer>
+<answer>Васко да Гама</answer>
+<answer>Iбн Батута</answer>
+</question>
+<question text="">
+<p>Укажiть iм’я мандрiвника, якого називали "залiзним пiратом"</p>
+<answer>Хуан Елькано</answer>
+<answer>Амерiго Веспуччi</answer>
+<answer>Христофор Колумб</answer>
+<answer correct>Френсiс Дрейк</answer>
+</question>
+</quiz>
