@@ -231,9 +231,7 @@
 		<label for="squaredThree">asdasd dsa das d</label>
 	</li>
 </ul>
-<div class="buttons">
-    <span class="btn show-label show-map">Переглянути маршрути</span>
-</div>
+<button class="btn show-label show-map">Переглянути маршрути</button>
 <br>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
