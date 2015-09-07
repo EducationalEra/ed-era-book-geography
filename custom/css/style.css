@@ -585,6 +585,6 @@ p1 {
   
   .wrap {
     float: left;
-    width: 100%;
+    width: 180px;
   }
 }
