@@ -234,6 +234,7 @@
     <span class="btn show-label show-map">Переглянути маршрути</span>
 </div>
 </div>
+<br>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
 <question text="">
