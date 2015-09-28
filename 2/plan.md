@@ -64,3 +64,30 @@
 </td>
 </tr>
 </table>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question text="">
+        <p>Який об’єкт позначають наведеним умовним знаком?</p>
+        <answer>поодиноке дерево</answer>
+        <answer>джерело</answer>
+        <answer correct>поодинокий кущ</answer>
+        <answer>колодязь</answer>
+    </question>
+    <question text="">
+        <p>Укажіть ознаку, не характерну для карти.</p>
+        <answer>виконана у проекції</answer>
+        <answer>передає земну поверхню в масштабі</answer>
+        <answer correct>напрямок сторін горизонту вказано стрілочкою</answer>
+        <answer>використовується в практичній діяльності</answer>
+    </question>
+        <question multiple>
+        <p>Які три спільні риси плана місцевості й  карти?</p>
+        <answer correct>відображують земну поверхню</answer>
+        <answer>використовують проекцію</answer>
+        <answer correct>використання горизонталей для відображення рельєфу</answer>
+        <answer>умовні позначення повністю співпадають</answer>
+        <answer correct>виконані в масштабі</answer>
+        <answer>використовують градусну сітку</answer>
+    </question>
+</quiz>
