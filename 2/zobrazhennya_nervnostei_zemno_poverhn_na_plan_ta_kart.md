@@ -96,4 +96,19 @@
 </div>
 </div>
 
-
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question text="">
+        <p>Яку назву має процес вимірювання відносної висоти?</p>
+        <answer>реперування</answer>
+        <answer correct>нівелювання</answer>
+        <answer>геодезування</answer>
+        <answer>футштокування</answer>
+    </question>
+    <question text="">
+        <p>Рівень якого місця на Землі прийнято за початок відліку висот?</p>
+        <answer correct>Балтійського моря</answer>
+        <answer>Мертвого моря</answer>
+        <answer>Чорного моря</answer>
+        <answer>Середземного моря</answer>
+    </question>
+</quiz>
