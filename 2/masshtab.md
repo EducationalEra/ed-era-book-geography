@@ -40,3 +40,21 @@
 цілих сантиметрах. Для точнішого визначення відстаней один з відрізків
 лінійного масштабу (зазвичай крайній лівий) ділять на дрібніші поділки
 в 1-2 мм.
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question>
+        <p>Яким за величиною є глобус масштабом 1:75 000 000?</p>
+        <answer>дрібним</answer>
+        <answer correct>малим</answer>
+        <answer>середнім</answer>
+        <answer>великим</answer>
+    </question>
+    <question text="">
+        <p>Масштаб виду в «1 см – 20 км» називають</p>
+        <answer>числовим</answer>
+        <answer correct>іменованим</answer>
+        <answer>лінійним</answer>
+        <answer>іменним</answer>
+    </question>
+</quiz>
+
