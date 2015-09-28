@@ -16,3 +16,43 @@
 Всі ці умовні знаки за своєю довжиною і конфігурацією є масштабними, а за шириною – позамасштабними.</li>
     <li><span class="p1">Пояснювальні</li> умовні знаки — це, наприклад, стрілки, які вказують напрямок течії річки, вітру тощо.</li>
 </ul>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question text="">
+        <p>Установіть відповідність між видами умовних знаків та їх прикладами<br/>
+        масштабні</p>
+        <answer>позначення діючого вулкану </answer>
+        <answer>теплі течії</answer>
+        <answer correct>зона пісків</answer>
+        <answer>канали</answer>
+    </question>
+    <question text="">
+        <p>позамасштабні</p>
+        <answer correct>позначення діючого вулкану </answer>
+        <answer>теплі течії</answer>
+        <answer>зона пісків</answer>
+        <answer>канали</answer>
+    </question>
+    <question text="">
+        <p>лінійні</p>
+        <answer>позначення діючого вулкану </answer>
+        <answer>теплі течії</answer>
+        <answer>зона пісків</answer>
+        <answer correct>канали</answer>
+    </question>
+    <question text="">
+        <p>пояснюючі</p>
+        <answer>позначення діючого вулкану </answer>
+        <answer correct>теплі течії</answer>
+        <answer>зона пісків</answer>
+        <answer>канали</answer>
+    </question>
+    <question text="">
+        <p>Як називаються ізолінії на карті, що з’єднують точки з  однаковими значеннями атмосферного тиску?</p>
+        <answer correct>ізобари</answer>
+        <answer>ізогіпси</answer>
+        <answer>ізобати</answer>
+        <answer>ізогієти</answer>
+    </question>
+</quiz>
