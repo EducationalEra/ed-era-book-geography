@@ -65,7 +65,7 @@
 </td>
 
 <td valign="top">
-Американський морський офіцер <span class="p1">Роберт Пірі</span> першим дістався <i>Північ-ного полюса</i>
+Американський морський офіцер <span class="p1">Роберт Пірі</span> першим дістався <i>Північного полюса</i>
 </td>
 
 <td valign="top">
@@ -73,5 +73,18 @@
 </td>
 </tr>
 </table>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question>
+<p>У якому році була відкрита Антарктида?</p>
+<answer correct>1820</answer>
+<answer>1909</answer>
+<answer>1911</answer>
+<explanation>
+Відкрила Перша російська антарктична експедиція під керівництвом Фадея Беллінсгаузена і Михайла Лазарєва у 1820 році.
+</explanation>
+</question>
+</quiz>
 
 
