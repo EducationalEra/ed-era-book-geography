@@ -41,7 +41,7 @@
 лінійного масштабу (зазвичай крайній лівий) ділять на дрібніші поділки
 в 1-2 мм.
 
-<img src="g1_w2_s1_q1.png"/><br>
+<img width="300" src="g1_w2_s1_q1.png"/>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
     <question text="">
         <p>Укажіть числовий масштаб, який відповідає наведеному лінійному масштабу.</p>
