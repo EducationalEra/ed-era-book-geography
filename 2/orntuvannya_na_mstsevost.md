@@ -84,3 +84,43 @@ $360^{\circ}$.
 <img src="pic4-2.jpg" width="450"/>
 </div>
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question text="">
+        <p>Який напрямок знаходження предмета, якщо його азимут дорівнює 270°?</p>
+        <answer>Північ</answer>
+        <answer>Південний захід</answer>
+        <answer correct>Захід</answer>
+        <answer>Схід</answer>
+    </question>
+    <question text="">
+        <p>Чому дорівнюватиме азимут предмета, який знаходиться у північно-західному напрямку?</p>
+        <answer>45°</answer>
+        <answer correct>30°</answer>
+        <answer>300°</answer>
+        <answer>315°</answer>
+    <explanation>
+        Ріст являє собою кількісні зміни організму, а розвиток – якісні (див п. <a href="#rist_i_rozvytok">«Ріст і розвиток»</a>)
+    </explanation>
+    </question>
+        <question text="">
+        <p>Оберіть автотрофний організм:</p>
+        <answer>собака</answer>
+        <answer>олень</answer>
+        <answer correct>ромашка</answer>
+        <answer>евглена зелена</answer>
+    <explanation>
+        Автотрофні організми – це організми, які самі виробляють органічні речовини, зокрема рослини та деякі бактерії. Олень і собака – це гетеротрофні організми, вони споживають вже готові органічні речовини, а евглена зелена – міксотроф, тобто вона змінює тип живлення залежно від ситуації.
+    </explanation>
+    </question>
+        <question text="">
+        <p>Яка з перелічених властивостей НЕ є властивістю всіх живих істот?</p>
+        <answer>клітинна будова</answer>
+        <answer>розмноження</answer>
+        <answer correct>здатність здійснювати настії</answer>
+        <answer>здатність до саморегуляції</answer>
+    <explanation>
+        <b>Настії</b> – це один із типів руху рослин, але не всіх живих істот.
+    </explanation>
+    </question>
+</quiz>
