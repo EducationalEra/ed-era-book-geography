@@ -66,5 +66,8 @@
 <answer correct>Ератосфен</answer>
 <answer>Геродот</answer>
 <answer>Птолемей</answer>
+<explanation>
+<b>Птолемей</b> – геоцентрична система ( в центрі Земля), <b>Коперник</b> – геліоцентрична система (в центрі Сонце).
+</explanation>
 </question>
 </quiz>
