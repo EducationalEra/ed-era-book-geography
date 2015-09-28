@@ -43,6 +43,14 @@
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
     <question text="">
+    <img src="g1_w2_s1_q1.png"/><br>
+        <p>Укажіть числовий масштаб, який відповідає наведеному лінійному масштабу.</p>
+        <answer>1 : 40</answer>
+        <answer>1 : 4000</answer>
+        <answer correct>1 : 40 000</answer>
+        <answer>1 : 400 000</answer>
+    </question>
+    <question text="">
         <p>Масштаб виду в «1 см – 20 км» називають</p>
         <answer>числовим</answer>
         <answer correct>іменованим</answer>
