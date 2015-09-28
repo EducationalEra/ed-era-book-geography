@@ -33,3 +33,20 @@
 форма нашої планети — так званий <b>земний геоїд</b>, тобто неідеальна куля, приплюснута з полюсів.
 </div>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question>
+        <p>Який спосіб зображення місцевості краще використовувати метеорологам для складання прогнозу погоди?</p>
+        <answer>план місцевості</answer>
+        <answer>глобус</answer>
+        <answer correct>космічний знімок</answer>
+        <answer>аерофотознімок</answer>
+    <explanation>
+    На космічному знімку видно повітряні маси, що дає можливість передбачити погоду.
+    </explanation>
+    </question>
+    <question>
+        <p>Яку назву мають аерофотознімки, вісь знімання яких нахилена під певним кутом?</p>
+        <answer>планові</answer>
+        <answer correct>перспективні</answer>
+    </quiz>
