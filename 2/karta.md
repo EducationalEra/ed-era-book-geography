@@ -76,3 +76,21 @@
 кутів, площі і форми, які є наслідком перенесення кулястої форми Землі
 на площину. Існують різні проекції, які мінімалізують конкретні види
 спотворень.
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question text="">
+        <p>Якими є топографічні карти за масштабом?</p>
+        <answer>дрібномасштабні</answer>
+        <answer>середньомасштабні</answer>
+        <answer correct>великомасштабні</answer>
+        <answer>тематичні</answer>
+    </question>
+    <question text="">
+        <p>Карта масштабу 1 : 1  000  000 належить до:</p>
+        <answer>топографічних</answer>
+        <answer>середньомасштабних</answer>
+        <answer>великомасштабних</answer>
+        <answer correct>дрібномасштабних</answer>
+    </question>
+</quiz>
