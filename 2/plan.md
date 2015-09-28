@@ -65,10 +65,10 @@
 </tr>
 </table>
 
-<img src="umovni_poznachennya/pood_kywi.jpg"/>
+<img style="margin-bottom:-16px" src="umovni_poznachennya/pood_kywi.jpg"/>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
     <question text="">
-        <p>Який об’єкт позначають наведеним умовним знаком?</p>
+        <p>Який об’єкт позначають наведеним вище умовним знаком?</p>
         <answer>поодиноке дерево</answer>
         <answer>джерело</answer>
         <answer correct>поодинокий кущ</answer>
