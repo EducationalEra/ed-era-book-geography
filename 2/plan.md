@@ -65,7 +65,8 @@
 </tr>
 </table>
 
-<img src="umovni_poznachennya/pood_kywi.jpg"/>
+<img src="umovni_poznachennya/pood_kywi.jpg"/><br/>
+<i>Рисунок до запитання</i>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
     <question text="">
         <p>Який об’єкт позначають наведеним вище умовним знаком?</p>
