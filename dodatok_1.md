@@ -19,17 +19,17 @@
 | <img src="2/umovni_poznachennya/hv-lis.jpg" width="230" /> | Хвойний ліс |
 | <img src="2/umovni_poznachennya/niva-gorod.jpg" width="230" /> | Нива. Город. |
 | <img src="2/umovni_poznachennya/ridkui-lis.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/frukt-sad.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/stanciya.jpg" width="230" /> | 1:10 |
+| <img src="2/umovni_poznachennya/frukt-sad.jpg" width="230" /> | Фруктовий сад |
+| <img src="2/umovni_poznachennya/stanciya.jpg" width="230" /> |  |
 | <img src="2/umovni_poznachennya/kryn.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/vyrub.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/skot.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/mist.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/parom.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/road.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/metal-mist.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/mtm.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/el-st.jpg" width="230" /> | 1:10 |
+| <img src="2/umovni_poznachennya/metal-mist.jpg" width="230" /> | Металевий міст. Насип. |
+| <img src="2/umovni_poznachennya/mtm.jpg" width="230" /> | Машинно-тракторна майстерня |
+| <img src="2/umovni_poznachennya/el-st.jpg" width="230" /> | Електростанція |
 | <img src="2/umovni_poznachennya/obsadgennya.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/mash.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/karer.jpg" width="230" /> | 1:10 |
