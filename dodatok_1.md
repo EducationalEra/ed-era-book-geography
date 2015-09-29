@@ -23,17 +23,17 @@
 | <img src="2/umovni_poznachennya/stanciya.jpg" width="230" /> | Двоколійна залізниця. Станція. Виїмка. |
 | <img src="2/umovni_poznachennya/kryn.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/vyrub.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/skot.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/mist.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/parom.jpg" width="230" /> | 1:10 |
+| <img src="2/umovni_poznachennya/skot.jpg" width="230" /> | Скотарня. Силосна башта |
+| <img src="2/umovni_poznachennya/mist.jpg" width="230" /> | Ґрунтова дорога. Дерев'яний міст. |
+| <img src="2/umovni_poznachennya/parom.jpg" width="230" /> | Пором. Приплав. |
 | <img src="2/umovni_poznachennya/road.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/metal-mist.jpg" width="230" /> | Металевий міст. Насип. |
 | <img src="2/umovni_poznachennya/mtm.jpg" width="230" /> | Машинно-тракторна майстерня |
 | <img src="2/umovni_poznachennya/el-st.jpg" width="230" /> | Електростанція |
-| <img src="2/umovni_poznachennya/obsadgennya.jpg" width="230" /> | 1:10 |
+| <img src="2/umovni_poznachennya/obsadgennya.jpg" width="230" /> |  |
 | <img src="2/umovni_poznachennya/mash.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/karer.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/lisnyk.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/yar.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/pood_kywi.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/greblya.jpg" width="230" /> | 1:10 |
+| <img src="2/umovni_poznachennya/yar.jpg" width="230" /> | Яр |
+| <img src="2/umovni_poznachennya/pood_kywi.jpg" width="230" /> | Поодинокий кущ |
+| <img src="2/umovni_poznachennya/greblya.jpg" width="230" /> | Гребля |
