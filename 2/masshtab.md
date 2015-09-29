@@ -33,6 +33,15 @@
 
 Отже, чим більша цифра у масштабі після одиниці, тим він дрібніший.
 
+<div class="space">
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e4uSc9y1ug8" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+</div>
+
+
 Лінійний масштаб використовують для того, щоб уникнути розрахунків.
 Циркулем вимірюють на карті відстань між потрібними точками, а потім
 прикладають циркуль до масштабу і визначають, якою є дана відстань на
