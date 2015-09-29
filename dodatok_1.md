@@ -16,6 +16,16 @@
 | <img src="2/umovni_poznachennya/suc-chag.jpg" /> | 1:10 |
 | <img src="2/umovni_poznachennya/ozero.jpg" /> | 1:10 |
 | <img src="2/umovni_poznachennya/ridkyi-lis.jpg" /> | 1:10 |
-| <img src="2/umovni_poznachennya/shkola.jpg" /> | 1:10 |
-| <img src="2/umovni_poznachennya/shkola.jpg" /> | 1:10 |
-
+| <img src="2/umovni_poznachennya/hv-lis.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/niva-gorod.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/ridkui-lis.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/frukt-sad.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/stanciya.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/kryn.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/vyrub.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/skot.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/niva-gorod.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/niva-gorod.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/niva-gorod.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/niva-gorod.jpg" /> | 1:10 |
+| <img src="2/umovni_poznachennya/niva-gorod.jpg" /> | 1:10 |
