@@ -25,6 +25,15 @@
 вигляд земної поверхні, адже на ньому немає значних спотворень. Тому пропорції, відстані, кути, площі об’єктів передаються з максимальною
 точністю.
 
+<div class="space">
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/yGPfGwxEMMQ" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+</div>
+
+
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
     <question>
