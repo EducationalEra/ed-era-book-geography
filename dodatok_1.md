@@ -15,12 +15,12 @@
 | <img src="2/umovni_poznachennya/liniya-peredach.jpg" width="230" /> | Лінія зв'язку. Шосе. |
 | <img src="2/umovni_poznachennya/suc-chag.jpg" width="230" /> | Суцільні зарослі чагарників |
 | <img src="2/umovni_poznachennya/ozero.jpg" width="230" /> | Озеро. Позначка урізу води. Болото. |
-| <img src="2/umovni_poznachennya/ridkyi-lis.jpg" width="230" /> | Рідкий ліс (рідколісся) |
+| <img src="2/umovni_poznachennya/ridkyi-lis.jpg" width="230" /> | Поодинокі дерева: хвойні, листові |
 | <img src="2/umovni_poznachennya/hv-lis.jpg" width="230" /> | Хвойний ліс |
 | <img src="2/umovni_poznachennya/niva-gorod.jpg" width="230" /> | Нива. Город. |
-| <img src="2/umovni_poznachennya/ridkui-lis.jpg" width="230" /> | 1:10 |
+| <img src="2/umovni_poznachennya/ridkui-lis.jpg" width="230" /> | Рідкий ліс (рідколісся) |
 | <img src="2/umovni_poznachennya/frukt-sad.jpg" width="230" /> | Фруктовий сад |
-| <img src="2/umovni_poznachennya/stanciya.jpg" width="230" /> |  |
+| <img src="2/umovni_poznachennya/stanciya.jpg" width="230" /> | Двоколійна залізниця. Станція. Виїмка. |
 | <img src="2/umovni_poznachennya/kryn.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/vyrub.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/skot.jpg" width="230" /> | 1:10 |
