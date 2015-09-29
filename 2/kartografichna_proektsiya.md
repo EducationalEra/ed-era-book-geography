@@ -1,6 +1,13 @@
 Картографічна проекція
 ----------------------
 
+<div class="space">
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/2nGIrC2Y7vQ" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+</div>
 
 За характером спотворень **проекції** поділяють на *рівнокутні*, *рівновеликі* та *довільні*.
 
@@ -43,6 +50,9 @@
 <div align="center">
 <img src="geog_kon1.jpg" style="border:1px solid #EFEFEF;"/>
 </div>
+
+
+
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
     <question text="">
