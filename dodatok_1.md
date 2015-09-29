@@ -3,18 +3,18 @@
 
 | Зображення | Значення |
 | -- | -- |
-| <img src="2/umovni_poznachennya/ridki-chag.jpg" width="230" /> | 1:2 |
-| <img src="2/umovni_poznachennya/shkola.jpg" width="230" /> | 1:3 |
-| <img src="2/umovni_poznachennya/urvyshe.jpg" width="230" /> | 1:4 |
-| <img src="2/umovni_poznachennya/vitryak.jpg" width="230" /> | 1:5 |
-| <img src="2/umovni_poznachennya/misto.jpg" width="230" /> | 1:6 |
-| <img src="2/umovni_poznachennya/richka.jpg" width="230" /> | 1:7 |
-| <img src="2/umovni_poznachennya/mlyn.jpg" width="230" /> | 1:8 |
-| <img src="2/umovni_poznachennya/selo.jpg" width="230" /> | 1:9 |
-| <img src="2/umovni_poznachennya/pisok.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/liniya-peredach.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/suc-chag.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/ozero.jpg" width="230" /> | 1:10 |
+| <img src="2/umovni_poznachennya/ridki-chag.jpg" width="230" /> | Рідкі чагарники. Луки. |
+| <img src="2/umovni_poznachennya/shkola.jpg" width="230" /> | Школа |
+| <img src="2/umovni_poznachennya/urvyshe.jpg" width="230" /> | Урвище |
+| <img src="2/umovni_poznachennya/vitryak.jpg" width="230" /> | Вітряк |
+| <img src="2/umovni_poznachennya/misto.jpg" width="230" /> | Місто |
+| <img src="2/umovni_poznachennya/richka.jpg" width="230" /> | Річка |
+| <img src="2/umovni_poznachennya/mlyn.jpg" width="230" /> | Джерело. Стумок. Млин. |
+| <img src="2/umovni_poznachennya/selo.jpg" width="230" /> | Село |
+| <img src="2/umovni_poznachennya/pisok.jpg" width="230" /> | Пісок |
+| <img src="2/umovni_poznachennya/liniya-peredach.jpg" width="230" /> | Лінія зв'язку. Шосе. |
+| <img src="2/umovni_poznachennya/suc-chag.jpg" width="230" /> | Суцільні зарослі чагарників |
+| <img src="2/umovni_poznachennya/ozero.jpg" width="230" /> | Озеро. Позначка урізу води. Болото. |
 | <img src="2/umovni_poznachennya/ridkyi-lis.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/hv-lis.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/niva-gorod.jpg" width="230" /> | 1:10 |
