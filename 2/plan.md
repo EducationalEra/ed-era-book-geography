@@ -66,7 +66,7 @@
 </table>
 
 
-<img src="poodn-kywi.jpg"/>
+<img src="poodn-kywi.jpg" style="border: 2px solid;"/>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
     <question text="">
         <p>Який об’єкт позначають наведеним вище умовним знаком?</p>
