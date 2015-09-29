@@ -8,16 +8,16 @@
 | <img src="2/umovni_poznachennya/urvyshe.jpg" width="230" /> | Урвище |
 | <img src="2/umovni_poznachennya/vitryak.jpg" width="230" /> | Вітряк |
 | <img src="2/umovni_poznachennya/misto.jpg" width="230" /> | Місто |
-| <img src="2/umovni_poznachennya/richka.jpg" width="230" /> | Річка |
+| <img src="2/umovni_poznachennya/richka.jpg" width="230" /> | Річка. Напрям течії |
 | <img src="2/umovni_poznachennya/mlyn.jpg" width="230" /> | Джерело. Стумок. Млин. |
 | <img src="2/umovni_poznachennya/selo.jpg" width="230" /> | Село |
 | <img src="2/umovni_poznachennya/pisok.jpg" width="230" /> | Пісок |
 | <img src="2/umovni_poznachennya/liniya-peredach.jpg" width="230" /> | Лінія зв'язку. Шосе. |
 | <img src="2/umovni_poznachennya/suc-chag.jpg" width="230" /> | Суцільні зарослі чагарників |
 | <img src="2/umovni_poznachennya/ozero.jpg" width="230" /> | Озеро. Позначка урізу води. Болото. |
-| <img src="2/umovni_poznachennya/ridkyi-lis.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/hv-lis.jpg" width="230" /> | 1:10 |
-| <img src="2/umovni_poznachennya/niva-gorod.jpg" width="230" /> | 1:10 |
+| <img src="2/umovni_poznachennya/ridkyi-lis.jpg" width="230" /> | Рідкий ліс (рідколісся) |
+| <img src="2/umovni_poznachennya/hv-lis.jpg" width="230" /> | Хвойний ліс |
+| <img src="2/umovni_poznachennya/niva-gorod.jpg" width="230" /> | Нива. Город. |
 | <img src="2/umovni_poznachennya/ridkui-lis.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/frukt-sad.jpg" width="230" /> | 1:10 |
 | <img src="2/umovni_poznachennya/stanciya.jpg" width="230" /> | 1:10 |
