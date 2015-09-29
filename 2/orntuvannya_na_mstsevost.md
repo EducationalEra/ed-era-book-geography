@@ -73,6 +73,15 @@ $360^{\circ}$.
 
 Меридіани вказують напрямок північ-південь.
 
+<div class="space">
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/CDPIw5at8BM" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+</div>
+
+
 **Алгоритм визначення азимута за планом**:
 
 1.  Зорієнтувати план за допомогою компаса. Для цього необхідно повернути план таким чином, щоб його напрямок на північ збігся з напрямком, який указує компас.
