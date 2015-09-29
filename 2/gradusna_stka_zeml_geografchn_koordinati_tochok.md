@@ -73,6 +73,16 @@ $20 000$ км ($180^{\circ}$). Довжина $1^{\circ}$ дорівнює $111,
 (Ґринвіцький) – це початок відліку географічної довготи. Він має довготу
 $0^{\circ}$. Оскільки вся земна куля має $360^{\circ}$, то в кожній з півкуль (Східній чи Західній) довгота може бути в інтервалі від $0^{\circ}$ до $180^{\circ}$. Усі точки, розміщені на одному меридіані, мають однакову географічну довготу.
 
+<div class="space">
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/r7B4EX7kFgo" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+</div>
+
+
+
 <img width="300" src="g1_w2_s2_q3.png">
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
     <question text="">
