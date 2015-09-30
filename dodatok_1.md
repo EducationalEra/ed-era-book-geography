@@ -38,24 +38,22 @@
 | <img src="2/umovni_poznachennya/pood_kywi.jpg" width="230" /> | Поодинокий кущ |
 | <img src="2/umovni_poznachennya/greblya.jpg" width="230" /> | Гребля |
 
-<quiz> 
-    <question>
-       <p>За допомогою якої проекції виконана карта півкуль?</p>
-           <answer>прямої  азимутальної</answer>
-           <answer correct>поперечної  азимутальної</answer>
-           <answer>циліндричної</answer>
-           <answer>конічної</answer>
-      <explanation>
-           Пояснення до запитання
-       </explanation>
-    </question>
-  <question multiple>
-    <p>Для поліса характерні (виберіть усі правильні варіанти):</p>
-    <answer correct>рабовласницький устрій</answer>
-    <answer>велика підвладна територія</answer>
-    <answer correct>республіканська форма правління</answer>
-    <answer>повна торгівельна та економічна ізольованість</answer>
-    <answer>загарбницька зовнішня політика</answer>
-    <answer correct>карбування монети</answer>
-  </question>
-</quiz>
+<quiz> 		
+    <question>		
+       <p>	За допомогою якої проекції виконана карта півкуль?	</p>
+           <answer>	прямої азимутальної	</answer>
+           <answer correct>	поперечної азимутальної	</answer>
+           <answer>	циліндричної	</answer>
+           <answer>	конічної	</answer>
+      <explanation>	           Пояснення до запитання	</explanation>
+    </question>		
+  <question multiple>		
+    <p>	Для поліса характерні (виберіть усі правильні варіанти):	</p>
+    <answer correct>	рабовласницький устрій	</answer>
+    <answer>	велика підвладна територія	</answer>
+    <answer correct>	республіканська форма правління	</answer>
+    <answer>	повна торгівельна та економічна ізольованість	</answer>
+    <answer>	загарбницька зовнішня політика	</answer>
+    <answer correct>	карбування монети	</answer>
+  </question>		
+</quiz>		
