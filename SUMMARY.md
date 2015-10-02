@@ -24,7 +24,7 @@
    * [Розмiри Землi](3/rozmiri_zemli.md)
    * [Утворення материкiв та океанiв](3/utvorennya_materikiv_ta_okeaniv.md)
    * [Лiтосфера та лiтосфернi плити](3/litosfera_ta_litosferni_pliti.md)
-   * Рухи земної кори
+   * [Рухи земної кори](3/ruhy_zemnoi_kory.md)
    * Вплив внутрiшнiх сил Землi
    * Вплив зовнiшнiх сил Землi
    * Основнi форми рельєфу Землi
