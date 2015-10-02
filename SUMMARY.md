@@ -20,7 +20,7 @@
    * [Часовi пояси](2/chasovi_poyasi.md)
 * Лiтосфера
    * [Внутрiшня будова Землi](3/vnutrishnya_budova_zemli.md)
-   * Гiрськi породи та мiнерали
+   * [Гiрськi породи та мiнерали](3/girski_porodi_ta_minerali.md)
    * Розмiри Землi
    * Утворення материкiв та океанiв
    * Лiтосфера та лiтосфернi плити
