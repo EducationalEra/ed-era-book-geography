@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <th collspan="2">Горизонтальнi</th>
+    <th colspan="2">Горизонтальнi</th>
     <th>Вертикальнi</th>
   </tr>
   <tr>
