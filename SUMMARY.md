@@ -22,7 +22,7 @@
    * [Внутрiшня будова Землi](3/vnutrishnya_budova_zemli.md)
    * [Гiрськi породи та мiнерали](3/girski_porodi_ta_minerali.md)
    * [Розмiри Землi](3/rozmiri_zemli.md)
-   * Утворення материкiв та океанiв
+   * [Утворення материкiв та океанiв](3/utvorennya_materikiv_ta_okeaniv.md)
    * Лiтосфера та лiтосфернi плити
    * Рухи земної кори
    * Вплив внутрiшнiх сил Землi
