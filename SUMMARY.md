@@ -23,7 +23,7 @@
    * [Гiрськi породи та мiнерали](3/girski_porodi_ta_minerali.md)
    * [Розмiри Землi](3/rozmiri_zemli.md)
    * [Утворення материкiв та океанiв](3/utvorennya_materikiv_ta_okeaniv.md)
-   * Лiтосфера та лiтосфернi плити
+   * [Лiтосфера та лiтосфернi плити](3/litosfera_ta_litosferni_pliti.md)
    * Рухи земної кори
    * Вплив внутрiшнiх сил Землi
    * Вплив зовнiшнiх сил Землi
