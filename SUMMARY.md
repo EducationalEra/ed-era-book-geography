@@ -14,7 +14,7 @@
    * [Зображення нерівностей земної поверхні на плані та карті](2/zobrazhennya_nervnostei_zemno_poverhn_na_plan_ta_kart.md)
    * [Градусна сітка Землі. Географічні координати точок](2/gradusna_stka_zeml_geografchn_koordinati_tochok.md)
    * [Топографічна карта](2/topografchna_karta.md)
-   * Додаток. Умовні позначення.
+   * [Додаток. Умовні позначення.](2/dodatok_umovn_poznachennya.md)
 * [Наука географiя](2/nauka_geografiya.md)
    * [Геологiчний час](2/geologichnii_chas.md)
    * [Рух Землi у космосi](2/ruh_zemli_u_kosmosi.md)
