@@ -27,7 +27,7 @@
    * [Рухи земної кори](3/ruhy_zemnoi_kory.md)
    * [Вплив внутрiшнiх сил Землi](3/vpliv_vnutrishnih_sil_zemli.md)
    * [Вплив зовнiшнiх сил Землi](3/vpliv_zovnishnih_sil_zemli.md)
-   * Основнi форми рельєфу Землi
+   * [Основнi форми рельєфу Землi](3/osnovni_formi_relfu_zemli.md)
    * Рельєф дна Свiтового океану
    * Додаток. Основнi гори свiту
 * Гiдросфера
