@@ -33,7 +33,7 @@
 <div class="space">
 <table>
 <tr>
-<td><span class="p1">Ера</span> (млн. рокiв)</td>
+<td><span class="p1">Ера (млн. рокiв)</span></td>
 <td><span class="p1">Перiоди горотворення</span></td>
 <td><span class="p1">Найважливiшi подiї</span></td>
 </tr>
