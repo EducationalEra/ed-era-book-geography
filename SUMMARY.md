@@ -28,7 +28,7 @@
    * [Вплив внутрiшнiх сил Землi](3/vpliv_vnutrishnih_sil_zemli.md)
    * [Вплив зовнiшнiх сил Землi](3/vpliv_zovnishnih_sil_zemli.md)
    * [Основнi форми рельєфу Землi](3/osnovni_formi_relfu_zemli.md)
-   * Рельєф дна Свiтового океану
+   * [Рельєф дна Свiтового океану](3/relf_dna_svitovogo_okeanu.md)
    * Додаток. Основнi гори свiту
 * Гiдросфера
    * Гiдросфера, її склад i будова
