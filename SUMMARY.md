@@ -26,7 +26,7 @@
    * [Лiтосфера та лiтосфернi плити](3/litosfera_ta_litosferni_pliti.md)
    * [Рухи земної кори](3/ruhy_zemnoi_kory.md)
    * [Вплив внутрiшнiх сил Землi](3/vpliv_vnutrishnih_sil_zemli.md)
-   * Вплив зовнiшнiх сил Землi
+   * [Вплив зовнiшнiх сил Землi](3/vpliv_zovnishnih_sil_zemli.md)
    * Основнi форми рельєфу Землi
    * Рельєф дна Свiтового океану
    * Додаток. Основнi гори свiту
