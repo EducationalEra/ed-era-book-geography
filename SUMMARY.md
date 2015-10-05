@@ -18,7 +18,7 @@
    * [Геологiчний час](2/geologichnii_chas.md)
    * [Рух Землi у космосi](2/ruh_zemli_u_kosmosi.md)
    * [Часовi пояси](2/chasovi_poyasi.md)
-* Лiтосфера
+* [Лiтосфера](3/litosfera.md)
    * [Внутрiшня будова Землi](3/vnutrishnya_budova_zemli.md)
    * [Гiрськi породи та мiнерали](3/girski_porodi_ta_minerali.md)
    * [Розмiри Землi](3/rozmiri_zemli.md)
