@@ -14,12 +14,12 @@
    * [Зображення нерівностей земної поверхні на плані та карті](2/zobrazhennya_nervnostei_zemno_poverhn_na_plan_ta_kart.md)
    * [Градусна сітка Землі. Географічні координати точок](2/gradusna_stka_zeml_geografchn_koordinati_tochok.md)
    * [Топографічна карта](2/topografchna_karta.md)
+   * Додаток. Умовні позначення.
 * [Наука географiя](2/nauka_geografiya.md)
    * [Геологiчний час](2/geologichnii_chas.md)
    * [Рух Землi у космосi](2/ruh_zemli_u_kosmosi.md)
    * [Часовi пояси](2/chasovi_poyasi.md)
 * [Лiтосфера](3/vnutrishnya_budova_zemli.md)
-   * [Внутрiшня будова Землi](3/vnutrishnya_budova_zemli.md)
    * [Гiрськi породи та мiнерали](3/girski_porodi_ta_minerali.md)
    * [Розмiри Землi](3/rozmiri_zemli.md)
    * [Утворення материкiв та океанiв](3/utvorennya_materikiv_ta_okeaniv.md)
