@@ -31,9 +31,8 @@
    * [Рельєф дна Свiтового океану](3/relf_dna_svitovogo_okeanu.md)
    * [Додаток. Основнi гори свiту](3/dodatok_osnovni_gori_svitu.md)
 * [Гiдросфера](3/gidrosfera.md)
-   * [Гiдросфера, її склад i будова](3/gidrosfera.md)
    * [Свiтовий колообiг води](3/svitovii_koloobig_vodi.md)
-   * Свiтовий океан та його частини
+   * [Свiтовий океан та його частини](3/svitovii_okean_ta_iogo_chastini.md)
    * Частини суходолу
    * Воднi маси
        * Додаток 1. Найбiльшi глибина океанiв
