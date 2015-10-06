@@ -34,7 +34,7 @@
    * [Свiтовий колообiг води](3/svitovii_koloobig_vodi.md)
    * [Свiтовий океан та його частини](3/svitovii_okean_ta_iogo_chastini.md)
    * [Частини суходолу](3/chastini_suhodolu.md)
-   * Воднi маси
+   * [Воднi маси](3/vodni_masi.md)
        * Додаток 1. Найбiльшi глибина океанiв
    * Рух води в океанi
    * Води суходолу
