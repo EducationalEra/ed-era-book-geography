@@ -43,7 +43,7 @@
        * [Додаток 3. Озера](3/dodatok_3_ozera.md)
    * [Болота та штучнi водойми](3/bolota_ta_shtuchni_vodoimi.md)
    * [Льодовики та багаторiчна мерзлота](3/lodoviki_ta_bagatorichna_merzlota.md)
-   * Пiдземнi води
+   * [Пiдземнi води](3/pidzemni_vodi.md)
 * Атмосфера
    * Атмосфера, її склад i будова
    * Тепловi пояси Землi
