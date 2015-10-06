@@ -38,7 +38,7 @@
        * [Додаток 1. Найбiльшi глибини океанiв](3/dodatok_1_naibilshi_glibina_okeaniv.md)
    * [Рух води в океанi](3/ruh_vodi_v_okeani.md)
    * [Води суходолу](3/vodi_suhodolu.md)
-       * Додаток 2. Рiчки
+       * [Додаток 2. Рiчки](3/dodatok_2_richki.md)
    * Озера
        * Додаток 3. Озера
    * Болота та штучнi водойми
