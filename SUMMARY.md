@@ -36,7 +36,7 @@
    * [Частини суходолу](3/chastini_suhodolu.md)
    * [Воднi маси](3/vodni_masi.md)
        * [Додаток 1. Найбiльшi глибини океанiв](3/dodatok_1_naibilshi_glibina_okeaniv.md)
-   * Рух води в океанi
+   * [Рух води в океанi](3/ruh_vodi_v_okeani.md)
    * Води суходолу
        * Додаток 2. Рiчки
    * Озера
