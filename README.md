@@ -10,7 +10,6 @@
    * [Географiчнi дослiдження на територiї України](1/Ukr.md)
 * [Земля на планi та картi](2/zemlya_na_plani_ta_karti.md)
    * [Географiя як наука](2/zemlya_na_plani_ta_karti.md)
-       * [Земля з повiтря](2/zemlya_na_plani_ta_karti.md)
        * [Масштаб](2/masshtab.md)
        * [Глобус](2/globus.md)
        * [Карта](2/karta.md)
