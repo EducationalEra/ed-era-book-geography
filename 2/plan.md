@@ -17,7 +17,7 @@
 Відповідно, схід буде праворуч, а захід – ліворуч.
 
 <div align="center">
-<img src="umovni2.png">
+<img width="600" src="umovni2.png">
 </div>
 
 <table>
