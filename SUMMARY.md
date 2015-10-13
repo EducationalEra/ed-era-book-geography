@@ -46,7 +46,7 @@
    * [Пiдземнi води](3/pidzemni_vodi.md)
 * [Атмосфера](4/atmosfera.md)
    * [Тепловi пояси Землi](4/teplovi_poyasy_zemli.md)
-   * Пояси атмосферного тиску на Землi
+   * [Пояси атмосферного тиску на Землi](4/poyasy_atmosfernogo_tysku_na_zemli.md)
    * Вiтер, постiйнi та змiннi вiтри
    * Хмари i туман
        * Види хмар
