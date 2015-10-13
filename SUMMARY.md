@@ -52,7 +52,7 @@
        * [Види хмар](4/vydy_hmar.md)
    * [Повiтрянi маси,циклони та антициклони](4/povitryani_masy,cyklony_ta_antycyklony.md)
    * [Види опадiв i закономiрностi їхнього розподiлу](4/vydy_opadiv_i_zakonomirnosti_ihnogo_rozpodilu.md)
-   * Погода, її елементи, типи, змiна в часi
+   * [Погода, її елементи, типи, змiна в часi](4/pogoda__elementy_typy,_zmina_v_chasi.md)
    * Клiмат Землi, чинники його формування, пояси i основнi типи
 * Бiосфера
    * Бiосфера та її складовi
