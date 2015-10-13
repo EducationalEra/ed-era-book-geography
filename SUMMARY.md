@@ -45,7 +45,7 @@
    * [Льодовики та багаторiчна мерзлота](3/lodoviki_ta_bagatorichna_merzlota.md)
    * [Пiдземнi води](3/pidzemni_vodi.md)
 * [Атмосфера](4/atmosfera.md)
-   * [Атмосфера, її склад i будова](4/atmosfera,__sklad_i_budova.md)
+   * [Атмосфера, її склад i будова](4/atmosfera.md)
    * Тепловi пояси Землi
    * Пояси атмосферного тиску на Землi
    * Вiтер, постiйнi та змiннi вiтри
