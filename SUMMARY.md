@@ -47,7 +47,7 @@
 * [Атмосфера](4/atmosfera.md)
    * [Тепловi пояси Землi](4/teplovi_poyasy_zemli.md)
    * [Пояси атмосферного тиску на Землi](4/poyasy_atmosfernogo_tysku_na_zemli.md)
-   * Вiтер, постiйнi та змiннi вiтри
+   * [Вiтер, постiйнi та змiннi вiтри](4/viter_postiini_ta_zminni_vitry.md)
    * Хмари i туман
        * Види хмар
    * Повiтрянi маси,циклони та антициклони
