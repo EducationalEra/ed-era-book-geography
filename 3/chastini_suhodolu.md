@@ -45,7 +45,9 @@
 </div>
 </div>
 
-![image](3-5.png)
+<div align="center">
+<img src="3-5.png">
+</div>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
