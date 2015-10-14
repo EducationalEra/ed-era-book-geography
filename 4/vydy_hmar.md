@@ -6,7 +6,7 @@
 6000 метрів, а тому опади з них на Землю не потрапляють.
 
 <div align="center">
-<img src="8.png">
+<img src="8.png" width="360">
 <p align="right">Автор: <span class="p1">Fir0002</span></p>
 </div>
 
@@ -16,7 +16,7 @@
 випадають затяжні дощі, мряка, сніг.
 
 <div align="center">
-<img src="9.png">
+<img src="9.png" width="360">
 <p align="right">Автор: <span class="p1">PiccoloNamek</span></p>
 </div>
 
@@ -25,6 +25,6 @@
 зливою.
 
 <div align="center">
-<img src="10.png">
+<img src="10.png" width="360">
 <p align="right">Автор: <span class="p1">Gebruiker:RobotE</span></p>
 </div>
