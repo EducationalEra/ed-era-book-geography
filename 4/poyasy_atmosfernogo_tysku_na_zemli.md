@@ -16,7 +16,7 @@
 Вимірюють тиск за допомогою **барометра**.
 
 <div align="center">
-<img src="2.jpg">
+<img src="2.jpg" width="350">
 <p align="right">Автор: <span class="p1">Sch</span></p>
 </div>
 
@@ -27,7 +27,7 @@
 зниженні – навпаки.
 
 <div align="center">
-<img src="3.jpg">
+<img src="3.png" width="420">
 </div>
 
 Від нагрівання повітря розширюється, піднімається вгору і менше тисне на
