@@ -12,13 +12,13 @@
    * [Географiчнi дослiдження на територiї України](1/Ukr.md)
 * [Земля на планi та картi](2/geografya_yak_nauka.md)
    * [Географія як наука](2/geografya_yak_nauka.md)
-       * Масштаб
-       * Глобус
-       * Карта
-       * Картографічна проекція
-       * Умовні знаки
-       * План
-       * Орієнтування на місцевості
+       * [Масштаб](2/masshtab.md)
+       * [Глобус](2/globus.md)
+       * [Карта](2/karta.md)
+       * [Картографічна проекція](2/kartografichna_proektsiya.md)
+       * [Умовні знаки](2/umovni_znaki.md)
+       * [План](2/plan.md)
+       * [Орієнтування на місцевості](2/orntuvannya_na_mstsevost.md)
    * [Зображення нерівностей земної поверхні на плані та карті](2/zobrazhennya_nervnostei_zemno_poverhn_na_plan_ta_kart.md)
    * [Градусна сітка Землі. Географічні координати точок](2/gradusna_stka_zeml_geografchn_koordinati_tochok.md)
    * [Топографічна карта](2/topografchna_karta.md)
