@@ -12,7 +12,7 @@
    * [Географiчнi дослiдження на територiї України](1/Ukr.md)
 * Земля на планi та картi
    * [Зображення нерівностей земної поверхні на плані та карті](2/zobrazhennya_nervnostei_zemno_poverhn_na_plan_ta_kart.md)
-   * [Градусна сітка Землі. Географічні координати точок](2/gradusna_stka_zeml_geografchn_koordinati_tochok.md)
+   * [Градусна сітка Землі. Географічні координати точок]()
    * [Топографічна карта](2/topografchna_karta.md)
    * [Додаток 1. Умовні позначення.](dodatok_1.md)
 * [Наука географiя](2/nauka_geografiya.md)
