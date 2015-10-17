@@ -10,7 +10,7 @@
    * [Освоєння полярних широт](1/osvoe.md)
    * [Мiжнароднi дослiдження земної кулi](1/international.md)
    * [Географiчнi дослiдження на територiї України](1/Ukr.md)
-* [Земля на планi та картi](2/zemlya_na_plani_ta_karti.md)
+* Земля на планi та картi
    * [Зображення нерівностей земної поверхні на плані та карті](2/zobrazhennya_nervnostei_zemno_poverhn_na_plan_ta_kart.md)
    * [Градусна сітка Землі. Географічні координати точок](2/gradusna_stka_zeml_geografchn_koordinati_tochok.md)
    * [Топографічна карта](2/topografchna_karta.md)
