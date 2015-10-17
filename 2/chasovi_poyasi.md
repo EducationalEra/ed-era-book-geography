@@ -1,5 +1,5 @@
-Часові пояси
-============
+#Часові пояси
+
 <div calss="space">
 <img class="center" src="3.png">
 <p align="center"><i>Рисунок 4.3.1: Часовi пояси</i></p>
