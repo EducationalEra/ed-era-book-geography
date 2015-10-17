@@ -13,7 +13,7 @@
 * Земля на планi та картi
    * [Зображення нерівностей земної поверхні на плані та карті](2/zobrazhennya_nervnostei_zemno_poverhn_na_plan_ta_kart.md)
    * [Градусна сітка Землі. Географічні координати точок](2/gradusna_stka_zeml_geografchn_koordinati_tochok.md)
-   * [Топографічна карта](2/topografchna_karta.md)
+   * [Топографічна карта]()
    * [Додаток 1. Умовні позначення.](dodatok_1.md)
 * [Наука географiя](2/nauka_geografiya.md)
    * [Геологiчний час](2/geologichnii_chas.md)
