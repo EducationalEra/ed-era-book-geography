@@ -1,5 +1,4 @@
-Карта
------
+#Карта
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
