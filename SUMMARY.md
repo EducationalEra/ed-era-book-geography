@@ -10,7 +10,15 @@
    * [Освоєння полярних широт](1/osvoe.md)
    * [Мiжнароднi дослiдження земної кулi](1/international.md)
    * [Географiчнi дослiдження на територiї України](1/Ukr.md)
-
+* Земля на планi та картi
+   * [Зображення нерівностей земної поверхні на плані та карті](2/zobrazhennya_nervnostei_zemno_poverhn_na_plan_ta_kart.md)
+   * [Градусна сітка Землі. Географічні координати точок](2/gradusna_stka_zeml_geografchn_koordinati_tochok.md)
+   * [Топографічна карта](2/topografchna_karta.md)
+   * [Додаток 1. Умовні позначення.](dodatok_1.md)
+* [Наука географiя](2/nauka_geografiya.md)
+   * [Геологiчний час](2/geologichnii_chas.md)
+   * [Рух Землi у космосi](2/ruh_zemli_u_kosmosi.md)
+   * [Часовi пояси](2/chasovi_poyasi.md)
 * [Лiтосфера](3/vnutrishnya_budova_zemli.md)
    * [Гiрськi породи та мiнерали](3/girski_porodi_ta_minerali.md)
    * [Розмiри Землi](3/rozmiri_zemli.md)
