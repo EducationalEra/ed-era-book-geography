@@ -59,7 +59,7 @@
    * [Ґрунти](4/grunty.md)
    * [Географiчна оболонка, закономiрностi її формування i розвитку](4/geografichna_obolonka_zakonomirnosti__formuvannya_i_rozvytku.md)
    * [Зональнi та азональнi природнi комплекси](4/zonalni_ta_azonalni_pryrodni_kompleksy.md)
-* Змiни природи пiд впливом господарської     дiяльностi людини
+* [Змiни природи пiд впливом господарської     дiяльностi людини](5/zminy_pryrody_pid_vplyvom_gospodarsko_diyalnosti_lyudyny.md)
    * Господарська дiяльнiсть людини
    * Змiни компонентiв природи людиною
    * Природнi ресурси материкiв та океанiв
