@@ -61,7 +61,7 @@
    * [Зональнi та азональнi природнi комплекси](4/zonalni_ta_azonalni_pryrodni_kompleksy.md)
 * [Змiни природи пiд впливом господарської     дiяльностi людини](5/zminy_pryrody_pid_vplyvom_gospodarsko_diyalnosti_lyudyny.md)
    * [Господарська дiяльнiсть людини](5/gospodarska_diyalnist_lyudyny.md)
-   * Змiни компонентiв природи людиною
+   * [Змiни компонентiв природи людиною](5/zminy_komponentiv_pryrody_lyudynoyu.md)
    * Природнi ресурси материкiв та океанiв
 * Вирiшення географiчних задач
    * Сонце
