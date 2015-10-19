@@ -58,7 +58,7 @@
    * [Вплив господарської дiяльностi людини на бiосферу](4/vplyv_gospodarsko_diyalnosti_lyudyny_na_biosferu.md)
    * [Ґрунти](4/grunty.md)
    * [Географiчна оболонка, закономiрностi її формування i розвитку](4/geografichna_obolonka_zakonomirnosti__formuvannya_i_rozvytku.md)
-   * Зональнi та азональнi природнi комплекси
+   * [Зональнi та азональнi природнi комплекси](4/zonalni_ta_azonalni_pryrodni_kompleksy.md)
 * Змiни природи пiд впливом господарської     дiяльностi людини
    * Господарська дiяльнiсть людини
    * Змiни компонентiв природи людиною
