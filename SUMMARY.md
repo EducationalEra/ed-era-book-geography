@@ -62,7 +62,7 @@
 * [Змiни природи пiд впливом господарської     дiяльностi людини](5/zminy_pryrody_pid_vplyvom_gospodarsko_diyalnosti_lyudyny.md)
    * [Змiни компонентiв природи людиною](5/zminy_komponentiv_pryrody_lyudynoyu.md)
    * [Природнi ресурси материкiв та океанiв](5/pryrodni_resursy_materykiv_ta_okeaniv.md)
-* Вирiшення географiчних задач
+* [Вирiшення географiчних задач](5/vyrishennya_geografichnyh_zadach.md)
    * Сонце
    * Амплiтуда коливань температури
    * Зволоження територiї
