@@ -56,7 +56,7 @@
    * [Клiмат Землi, чинники його формування, пояси i основнi типи](4/klimat_zemli_chynnyky_iogo_formuvannya_poyasi_i_osnovni_typy.md)
 * [Бiосфера](4/biosfera.md)
    * [Вплив господарської дiяльностi людини на бiосферу](4/vplyv_gospodarsko_diyalnosti_lyudyny_na_biosferu.md)
-   * Ґрунти
+   * [Ґрунти](4/grunty.md)
    * Географiчна оболонка, закономiрностi її формування i розвитку
    * Зональнi та азональнi природнi комплекси
 * Змiни природи пiд впливом господарської     дiяльностi людини
