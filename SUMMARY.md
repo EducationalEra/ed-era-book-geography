@@ -11,14 +11,6 @@
    * [Мiжнароднi дослiдження земної кулi](1/international.md)
    * [Географiчнi дослiдження на територiї України](1/Ukr.md)
 * [Земля на планi та картi](2/zemlya_na_plani_ta_karti.md)
-   * [Географiя як наука](2/zemlya_na_plani_ta_karti.md)
-       * [Масштаб](2/masshtab.md)
-       * [Глобус](2/globus.md)
-       * [Карта](2/karta.md)
-       * [Картографiчна проекцiя](2/kartografichna_proektsiya.md)
-       * [Умовнi знаки](2/umovni_znaki.md)
-       * [План](2/plan.md)
-       * [Орієнтування на місцевості](2/orntuvannya_na_mstsevost.md)
    * [Зображення нерівностей земної поверхні на плані та карті](2/zobrazhennya_nervnostei_zemno_poverhn_na_plan_ta_kart.md)
    * [Градусна сітка Землі. Географічні координати точок](2/gradusna_stka_zeml_geografchn_koordinati_tochok.md)
    * [Топографічна карта](2/topografchna_karta.md)
@@ -62,7 +54,7 @@
    * [Види опадiв i закономiрностi їхнього розподiлу](4/vydy_opadiv_i_zakonomirnosti_ihnogo_rozpodilu.md)
    * [Погода, її елементи, типи, змiна в часi](4/pogoda__elementy_typy,_zmina_v_chasi.md)
    * [Клiмат Землi, чинники його формування, пояси i основнi типи](4/klimat_zemli_chynnyky_iogo_formuvannya_poyasi_i_osnovni_typy.md)
-* Бiосфера
+* [Бiосфера](5/biosfera.md)
    * Бiосфера та її складовi
    * Вплив господарської дiяльностi людини на бiосферу
    * Ґрунти
@@ -81,3 +73,4 @@
    * Населення
    * Тиск
    * Пам’ятка
+
