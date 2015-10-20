@@ -3,7 +3,7 @@
 <div calss="space">
 <img class="center" src="3.png">
 <p align="center"><i>Рисунок 4.3.1: Часовi пояси</i></p>
-<p align="right">Автор: TimeZonesBoy</p>
+<p align="right">Автор: <span class="p1">TimeZonesBoy</span></p>
 </div>
 
 У 1878 р. канадський інженер Сендфорд Флемінґ запропонував систему
@@ -31,8 +31,8 @@ $15^{\circ}$. Відлік цих поясів ведеться у східно�
 
 <table border="0">
   <tr>
-    <th><img src="pic2-2-2.jpg"></th>
-    <th><img src="pic3-3-3.jpg"></th>
+    <th><img src="pic2-2-2.jpg" width="358px"></th>
+    <th><img src="pic3-3-3.jpg" width="358px"></th>
   </tr>
   <tr>
     <td align="center"><i>Рисунок 4.3.2: Місцевий час</i></td>
