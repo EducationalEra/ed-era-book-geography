@@ -2,7 +2,7 @@
 ======================
 
 <div align="center">
-<img src="Water_cycle.jpg" width="450">
+<img src="Water_cycle.jpg" width="650">
 </div>
 
 На Землі водночас відбуваються <span class="p1">великий</span> і <span class="p1">малий</span> колообіги води.
