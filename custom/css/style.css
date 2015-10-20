@@ -481,7 +481,7 @@ p1 {
 }
 
 .btn-knopka:hover {
-  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#FFE48D),color-stop(2%,#FFDE6E),color-stop(100%,#ffba00));
+  background: -moz-linear-gradient(linear,left top,left bottom,color-stop(0%,#FFE48D),color-stop(2%,#FFDE6E),color-stop(100%,#ffba00));
   background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#FFE48D),color-stop(2%,#FFDE6E),color-stop(100%,#ffba00));
   background: -webkit-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
   background: -o-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
