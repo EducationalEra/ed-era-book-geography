@@ -66,7 +66,7 @@
 * [Розв'язання географiчних задач](6/rozvyazannyageografichnyh_zadach.md)
    * Сонце
    * [Амплiтуда коливань температури](6/amplituda_kolyvan_temperatury.md)
-   * Зволоження територiї
+   * [Зволоження територiї](6/zvolozhennya_terytorii.md)
    * Ресурсозабезпеченiсть
    * Рiчки
    * Населення
