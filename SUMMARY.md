@@ -70,6 +70,6 @@
    * [Ресурсозабезпеченiсть](6/resursozabezpechenist.md)
    * [Рiчки](6/richky.md)
    * [Населення](6/naselennya.md)
-   * Тиск
+   * [Тиск](6/tysk.md)
    * Пам’ятка
 
