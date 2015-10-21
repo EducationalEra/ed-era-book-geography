@@ -1,4 +1,11 @@
 # Амплiтуда коливань температури
+
+<div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+Амплiтуда коливань температури — це рiзниця мiж максимальною та мiнiмальною температурою. Вимiрюється у градусах
+Цельсiя.
+
 <div class="task-wrap">
 <span class="task">ЗАДАЧА</span>
 <div class="task-text">
