@@ -121,4 +121,18 @@
 <answer correct>Амудар’я, Мюррей</answer>
 <answer>Волга, Меконг</answer>
 </question>
+<question>
+<p>Що таке заплава?</p>
+<answer correct>Частина річкової долини, яка затоплюється під час повені</answer>
+<answer>Рівнина в пониззях річки, створена наносами річки та порізана протоками</answer>
+<answer>Східцеподібні уступи на берегах річки</answer>
+<answer>Мілководна скеляста ділянка в руслі річки</answer>
+</question>
+<question>
+<p>Яку назву має щорічне підняття рівня води у річці?</p>
+<answer>Межень</answer>
+<answer>Паводок</answer>
+<answer correct>Повінь</answer>
+</question>
 </quiz>
+
