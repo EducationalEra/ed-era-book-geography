@@ -90,3 +90,20 @@
 <div align="center">
 <img src="Elbrus_North.jpg"/>
 </div>
+
+<quiz>
+<question>
+<p>Укажіть назву молодих гір.</p>
+<answer>Скандинавські гори</answer>
+<answer correct>Карпати</answer>
+<answer>Аппалачі</answer>
+<answer>Урал</answer>
+</question>
+<question>
+<p>Укажіть назву найбільшої низовини світу.</p>
+<answer correct>Амазонська</answer>
+<answer>Месопотамська</answer>
+<answer>Східноєвропейська</answer>
+<answer>Західносибірська</answer>
+</question>
+</quiz>
