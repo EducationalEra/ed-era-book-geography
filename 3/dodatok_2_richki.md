@@ -55,3 +55,13 @@
 </tr>
 </tbody>
 </table>
+
+<quiz>
+<question>
+<p>Де знаходиться річка з найбільшим енергетичним запасом?</p>
+<answer>Європа</answer>
+<answer>Південна Америка</answer>
+<answer correct>Північна Америка</answer>
+<answer>Азія</answer>
+</question>
+</quiz>
