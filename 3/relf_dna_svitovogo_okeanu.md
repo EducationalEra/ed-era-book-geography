@@ -27,7 +27,7 @@
 <quiz>
 <question>
 <p>Установіть відповідність між об’єктами, позначеними на схемі буквами, і  їх назвами.<br>
-океанічний жолоб </p>
+океанічний жолоб</p>
 <answer>А</answer>
 <answer>Б</answer>
 <answer correct>В</answer>
@@ -35,7 +35,7 @@
 <answer>Д</answer>
 </question>
 <question>
-<p> шельф </p>
+<p>шельф </p>
 <answer correct>А</answer>
 <answer>Б</answer>
 <answer>В</answer>
@@ -43,14 +43,14 @@
 <answer>Д</answer>
 </question>
 <question>
-<p> підводний хребет </p>
+<p>підводний хребет </p>
 <answer>А</answer>
 <answer>Б</answer>
 <answer>В</answer>
 <answer>Г</answer>
 <answer correct>Д</answer>
 </question>
-<question><p> материковий схил </p>
+<question><p>материковий схил</p>
 <answer>А</answer>
 <answer correct>Б</answer>
 <answer>В</answer>
