@@ -69,7 +69,7 @@
    * [Зволоження територiї](6/zvolozhennya_terytorii.md)
    * [Ресурсозабезпеченiсть](6/resursozabezpechenist.md)
    * [Рiчки](6/richky.md)
-   * Населення
+   * [Населення](6/naselennya.md)
    * Тиск
    * Пам’ятка
 
