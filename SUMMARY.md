@@ -64,7 +64,7 @@
    * [Природнi ресурси материкiв та океанiв](5/pryrodni_resursy_materykiv_ta_okeaniv.md)
 * [Забруднення й охорона природного середовища](5/zabrudnennya_i_ohorona_pryrodnogo_seredovyscha.md)
 * [Розв'язання географiчних задач](6/rozvyazannyageografichnyh_zadach.md)
-   * Сонце
+   * [Сонце](6/sonce.md)
    * [Амплiтуда коливань температури](6/amplituda_kolyvan_temperatury.md)
    * [Зволоження територiї](6/zvolozhennya_terytorii.md)
    * [Ресурсозабезпеченiсть](6/resursozabezpechenist.md)
