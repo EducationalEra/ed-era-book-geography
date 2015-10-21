@@ -15,3 +15,41 @@
 | Австралійські Альпи | Косцюшко (2228) | Австралія |
 | Карпати | Пік Герлаховський (2655), в Україні – Говерла (2061) | Європа |
  | Кримські гори | Роман-Кош (1545), Ай-Петрі (1234) | Європа |
+ 
+ 
+<img src=”5.10.jpg”>
+<quiz>
+<question>
+<p>Установіть відповідність між назвами географічних об’єктів, та буквами, якими їх позначено на картосхемі.<br>
+Анди</p>
+<answer>А</answer>
+<answer>Б</answer>
+<answer correct>В</answer>
+<answer>Г</answer>
+<answer>Д</answer>
+</question>
+<question>
+<p>Великий Вододільний хребет</p>
+<answer>А</answer>
+<answer>Б</answer>
+<answer>В</answer>
+<answer>Г</answer>
+<answer correct>Д</answer>
+</question>
+<question>
+<p>Гімалаї</p>
+<answer>А</answer>
+<answer>Б</answer>
+<answer>В</answer>
+<answer correct>Г</answer>
+<answer>Д</answer>
+</question>
+<question>
+<p>Кордильєри</p>
+<answer correct>А</answer>
+<answer>Б</answer>
+<answer>В</answer>
+<answer>Г</answer>
+<answer>Д</answer>
+</question>
+</quiz>
