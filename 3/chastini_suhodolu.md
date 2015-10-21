@@ -46,3 +46,13 @@
 острови Нова Зеландія тощо.
 
 ![image](archipelago.jpg)
+
+<quiz>
+<question>
+<p>Який з островів не є вулканічним?</p>
+<answer>Курильські острови</answer>
+<answer>Гавайські острови</answer>
+<answer correct>Гренландія</answer>
+<answer>Ісландія</answer>
+</question>
+</quiz>
