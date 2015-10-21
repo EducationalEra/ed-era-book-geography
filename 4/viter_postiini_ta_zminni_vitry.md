@@ -28,15 +28,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<b>Анемометр</b> — прилад для визначення швидкостi вiтру.
-</div>
-</div>
-
-
-
-<div class="eoz-wrap">
-<span class="eoz">Означення</span>
-<div class="eoz-text">
+<p><b>Анемометр</b> — прилад для визначення швидкостi вiтру.</p>
 <b>Роза вiтрiв</b> — дiаграма, яка вiдображає напрями вiтрiв, що переважають у певнiй мiсцевостi.
 </div>
 </div>
