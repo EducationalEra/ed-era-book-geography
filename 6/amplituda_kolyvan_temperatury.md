@@ -3,7 +3,7 @@
 <span class="task">ЗНО</span>
 <div class="task-text">
 У таблиці подано інформацію про середньомісячну температуру повітря на одній з метеорологічних станцій. Визначте річну амплітуду коливань температури повітря.
-<table>
+<table style="border: 1px solid red !important;">
 <thead>
 <tr>
 <th>Мiсяцi</th>
