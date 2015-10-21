@@ -71,5 +71,5 @@
    * [Рiчки](6/richky.md)
    * [Населення](6/naselennya.md)
    * [Тиск](6/tysk.md)
-   * Пам’ятка
+   * [Пам’ятка](6/pamyatka.md)
 
