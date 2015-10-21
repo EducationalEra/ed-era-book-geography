@@ -4,38 +4,38 @@
 <div class="task-text">
 У таблиці подано інформацію про середньомісячну температуру повітря на одній з метеорологічних станцій. Визначте річну амплітуду коливань температури повітря.
 <table>
-<thead style="border: 1px solid #FAAF00 !important;">
+<thead>
 <tr>
-<th>Мiсяцi</th>
-<td>I</td>
-<td>II</td>
-<td>III</td>
-<td>IV</td>
-<td>V</td>
-<td>VI</td>
-<td>VII</td>
-<td>VIII</td>
-<td>IX</td>
-<td>X</td>
-<td>XI</td>
-<td>XII</td>
+<th class="orange-cell">Мiсяцi</th>
+<th class="orange-cell">I</th>
+<th class="orange-cell">II</th>
+<th class="orange-cell">III</th>
+<th class="orange-cell">IV</th>
+<th class="orange-cell">V</th>
+<th class="orange-cell">VI</th>
+<th class="orange-cell">VII</th>
+<th class="orange-cell">VIII</th>
+<th class="orange-cell">IX</th>
+<th class="orange-cell">X</th>
+<th class="orange-cell">XI</th>
+<th class="orange-cell">XII</th>
 </tr>
 </thead>
-<tbody style="border: 1px solid #FAAF00 !important;">
+<tbody>
 <tr>
-<td><i>t</i>, $^{\tiny{o}}$C</td>
-<td>-8</td>
-<td>-7</td>
-<td>+1</td>
-<td>+9</td>
-<td>+17</td>
-<td>+20</td>
-<td>+23</td>
-<td>+21</td>
-<td>+18</td>
-<td>+10</td>
-<td>+1</td>
-<td>-6</td>
+<td class="orange-cell"><i>t</i>, $^{\tiny{o}}$C</td>
+<td class="orange-cell">-8</td>
+<td class="orange-cell">-7</td>
+<td class="orange-cell">+1</td>
+<td class="orange-cell">+9</td>
+<td class="orange-cell">+17</td>
+<td class="orange-cell">+20</td>
+<td class="orange-cell">+23</td>
+<td class="orange-cell">+21</td>
+<td class="orange-cell">+18</td>
+<td class="orange-cell">+10</td>
+<td class="orange-cell">+1</td>
+<td class="orange-cell">-6</td>
 </tr>
 </tbody>
 </table>
