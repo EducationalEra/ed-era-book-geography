@@ -6,7 +6,7 @@
 <div align="center">
 <img src="2.png">
 <p><i>Рисунок 4.2.1: Обертання Землi навколо Сонця</i></p>
-<p align="right">Автор: Talifero</p>
+<p align="right">Автор: <span class="p1">Talifero</span></p>
 </div>
 
 <span class="p1">Доба</span> – одиниця часу, за яку Земля здійснює повний оберт навколо своєї осі із заходу на схід. *Тривалість доби — 23 год 56 хв 4 с*.
