@@ -112,3 +112,13 @@
 стадiя розвитку ярiв.
 </div>
 </div>
+
+<quiz>
+<question>
+<p>Укажіть назви річок, одна з яких протікає в Євразії, друга — в Австралії.</p>
+<answer>Парана, Дарлінг</answer>
+<answer>Міссісіпі, Ніл</answer>
+<answer correct>Амудар’я, Мюррей</answer>
+<answer>Волга, Меконг</answer>
+</question>
+</quiz>
