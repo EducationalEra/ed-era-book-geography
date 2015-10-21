@@ -24,3 +24,52 @@
 <li><span class="p1">Стічні</span> — з яких витікає ріка. Прісні. Наприклад, озеро Байкал – найглибше озеро у світі (1602 м), містить $\dfrac{1}{10}$ запасів прісної води світу (витікає ріка Ангара).</li>
 <li><span class="p1">Безстічні</span> – солоні. Наприклад, озеро Балхаш, яке наполовину прісне, а наполовину солоне. Західна частина озера мілководна і має прісну воду, в неї впадає велика річка (80% усього припливу води). Східна частина глибока і має велику солоність.</li>
 </ul>
+
+<quiz>
+<question>
+<p>Котловини яких озер утворилася внаслідок перегородження долини річки зсувами чи обвалами?</p>
+<answer>карстових</answer>
+<answer>загатних</answer>
+<answer correct>лиманних</answer>
+<answer>залишкових</answer>
+</question>
+<question>
+<p>Укажіть яке за походженням озеро Каспійське море</p>
+<answer correct>залишкове</answer>
+<answer>вулканічне</answer>
+<answer>тектонічне</answer>
+<answer>лиманне</answer>
+<question>
+<p>Установіть відповідність між назвами озер та їх характеристикоюbr<br>
+Мертве море</p>
+<answer>найвисокогірніше</option>
+<answer>блукаюче</answer>
+<answer>найглибше</answer>
+<answer correct>найнижче</answer>
+<answer>найбільше за площею</answer>
+</question>
+<question>
+<p>Тітікака</p>
+<answer correct>найвисокогірніше</option>
+<answer>блукаюче</answer>
+<answer>найглибше</answer>
+<answer>найнижче</answer>
+<answer>найбільше за площею</answer>
+</question>
+<question>
+<p>Лобнор</p>
+<answer>найвисокогірніше</option>
+<answer correct>блукаюче</answer>
+<answer>найглибше</answer>
+<answer>найнижче</answer>
+<answer>найбільше за площею</answer>
+</question>
+<question>
+<p>Байкал</p>
+<answer>найвисокогірніше</option>
+<answer>блукаюче</answer>
+<answer correct>найглибше</answer>
+<answer>найнижче</answer>
+<answer>найбільше за площею</answer>
+</question>
+</quiz>
