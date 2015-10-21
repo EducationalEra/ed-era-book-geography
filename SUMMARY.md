@@ -67,7 +67,7 @@
    * Сонце
    * [Амплiтуда коливань температури](6/amplituda_kolyvan_temperatury.md)
    * [Зволоження територiї](6/zvolozhennya_terytorii.md)
-   * Ресурсозабезпеченiсть
+   * [Ресурсозабезпеченiсть](6/resursozabezpechenist.md)
    * Рiчки
    * Населення
    * Тиск
