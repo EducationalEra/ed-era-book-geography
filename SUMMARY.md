@@ -63,7 +63,7 @@
    * [Змiни компонентiв природи людиною](5/zminy_komponentiv_pryrody_lyudynoyu.md)
    * [Природнi ресурси материкiв та океанiв](5/pryrodni_resursy_materykiv_ta_okeaniv.md)
 * [Забруднення й охорона природного середовища](5/zabrudnennya_i_ohorona_pryrodnogo_seredovyscha.md)
-* [Розв'язання географiчних задач](6/rozvyazannya_geografichnyh_zadach.md)
+* [Розв'язання географiчних задач](6/rozvyazannya_geografichnyh_zadach_md.md)
    * Сонце
    * Амплiтуда коливань температури
    * Зволоження територiї
