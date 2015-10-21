@@ -57,3 +57,27 @@
 Ґібралтарська, Керченська, Босфор, Магелланова протоки.
 </div>
 </div>
+
+<quiz>
+<question>
+<p>Який океан найсолоніший?</p>
+<answer>Тихий океан</answer>
+<answer>Індійський океан</answer>
+<answer>Північний Льодовитий океан</answer>
+<answer correct>Атлантичний океан</answer>
+</question>
+<question>
+<p>Що є назвою затоки?</p>
+<answer>Дрейка</answer>
+<answer>Босфор</answer>
+<answer>Беригнова</answer>
+<answer correct>Гудзонова</answer>
+</question>
+<question>
+<p>Як називаються частини океану, які розміщуються по окраїнах материків і мало вдаються в суходіл?</p>
+<answer>затоки</answer> 
+<answer>протоки</answer> 
+<answer>середземні моря</answer> 
+<answer correct>окраїнні моря</answer>
+</question>
+</quiz>
