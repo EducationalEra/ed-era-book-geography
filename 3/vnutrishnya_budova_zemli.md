@@ -47,3 +47,48 @@
 </tr>
 </tbody>
 </table>
+
+<quiz>
+<question>
+<p>На яку внутрішню частину Землі припадає найменша частина її об’єму?</p>
+<answer>ядро</answer>
+Б  мантію</answer>
+<answer correct>земну кору</answer>
+<answer>літосферу</answer>
+</question>
+<question>
+<p>Установіть послідовність розташування шарів земної кори.
+1.</p>
+<answer>базальтовий</answer>
+<answer>верхня мантія</answer>
+<answer>гранітний</answer>
+<answer correct>осадовий</answer>
+</question>
+<question>
+<p>2.</p>
+<answer>базальтовий</answer>
+<answer>верхня мантія</answer>
+<answer correct>гранітний</answer>
+<answer>осадовий</answer>
+</question>
+<question>
+<p>3.</p>
+<answer correct>базальтовий</answer>
+<answer>верхня мантія</answer>
+<answer>гранітний</answer>
+<answer>осадовий</answer>
+</question>
+<question>
+<p>4.</p>
+<answer>базальтовий</answer>
+<answer correct>верхня мантія</answer>
+<answer>гранітний</answer>
+<answer>осадовий</answer>
+</question>
+<question>
+<p>Що таке астеносфера?</p>
+<answer>Шар земної кори</answer>
+<answer>Зовнішній шар ядра</answer>
+<answer correct>Зовнішній шар мантії</answer>
+</question>
+</quiz>
