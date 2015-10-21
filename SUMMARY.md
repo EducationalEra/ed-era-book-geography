@@ -65,7 +65,7 @@
 * [Забруднення й охорона природного середовища](5/zabrudnennya_i_ohorona_pryrodnogo_seredovyscha.md)
 * [Розв'язання географiчних задач](6/rozvyazannyageografichnyh_zadach.md)
    * Сонце
-   * Амплiтуда коливань температури
+   * [Амплiтуда коливань температури](6/amplituda_kolyvan_temperatury.md)
    * Зволоження територiї
    * Ресурсозабезпеченiсть
    * Рiчки
