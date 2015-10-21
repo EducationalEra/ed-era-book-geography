@@ -318,6 +318,11 @@ default – "White"
 }
 
 /*Для таблицы*/
+
+.orange-cell {
+    border: 1px solid #FAAF00 !important;
+}
+
 .left {
     font-weight: 400;
     text-align: left;
