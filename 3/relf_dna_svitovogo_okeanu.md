@@ -22,3 +22,77 @@
 <b>Глибоководнi жолоби</b> — вiдносно вузькi западини дна океану з глибинами до 11 км (Марiанський жолоб).
 </div>
 </div>
+
+<img src=”q5.9.jpg”>
+<quiz>
+<question>
+<p>Установіть відповідність між об’єктами, позначеними на схемі буквами, і  їх назвами.<br>
+океанічний жолоб </p>
+<answer>А</answer>
+<answer>Б</answer>
+<answer correct>В</answer>
+<answer>Г</answer>
+<answer>Д</answer>
+</question>
+<question>
+<p> шельф </p>
+<answer correct>А</answer>
+<answer>Б</answer>
+<answer>В</answer>
+<answer>Г</answer>
+<answer>Д</answer>
+</question>
+<question>
+<p> підводний хребет </p>
+<answer>А</answer>
+<answer>Б</answer>
+<answer>В</answer>
+<answer>Г</answer>
+<answer correct>Д</answer>
+</question>
+<question><p> материковий схил </p>
+<answer>А</answer>
+<answer correct>Б</answer>
+<answer>В</answer>
+<answer>Г</answer>
+<answer>Д</answer>
+</question>
+</quiz>
+1-В, 2-А, 3-Д, 4-Б
+5.10
+<img src=”5.10.jpg”>
+<quiz>
+<question>
+<p>Установіть відповідність між назвами географічних об’єктів, та буквами, якими їх позначено на картосхемі.<br>
+Анди</p>
+<answer>А</answer>
+<answer>Б</answer>
+<answer correct>В</answer>
+<answer>Г</answer>
+<answer>Д</answer>
+</question>
+<question>
+<p>Великий Вододільний хребет</p>
+<answer>А</answer>
+<answer>Б</answer>
+<answer>В</answer>
+<answer>Г</answer>
+<answer correct>Д</answer>
+</question>
+<question>
+<p>Гімалаї</p>
+<answer>А</answer>
+<answer>Б</answer>
+<answer>В</answer>
+<answer correct>Г</answer>
+<answer>Д</answer>
+</question>
+<question>
+<p>Кордильєри</p>
+<answer correct>А</answer>
+<answer>Б</answer>
+<answer>В</answer>
+<answer>Г</answer>
+<answer>Д</answer>
+</question>
+</quiz>
