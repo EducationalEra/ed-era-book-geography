@@ -29,3 +29,20 @@
   </tr>
 </table>
 
+<quiz>
+<question>
+<p>Яка крайня точка України знаходиться найближче до Гринвіцького меридіана?</p>
+<answer>північна</answer>
+<answer>південна</answer>
+<answer correct>західна </answer>
+<answer>східна</answer>
+</question>
+<question>
+<p>Укажіть часовий пояс, у якому знаходиться Україна.</p>
+<answer>перший</answer>
+<answer correct>другий</answer>
+<answer>третій</answer>
+<answer>четвертий</answer>
+</question>
+</quiz>
+
