@@ -52,7 +52,7 @@
 <answer>Нафта</answer> 
 <answer>Газ</answer>
 <answer correct>Торф</answer>
-</qusetion>
+</question>
 <question>
 <p>Що з переліченого не властиво болотам?</p>
 <answer correct>Роблять клімат більш різким</answer>
