@@ -65,7 +65,7 @@ $23^{\circ}27’$ на пiвнiч i на пiвдень вiд екватора.</
 
 <div align="center">
 <img src="1.png">
-<p align="right">Автор: <span class="p1">Kliimavöötmed.svg: Urmas</span></p>
+<p align="right">Автор: <span class="p1">Urmas</span></p>
 </div>
 
 
