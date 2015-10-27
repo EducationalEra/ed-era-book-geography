@@ -53,6 +53,12 @@
 | Пiвденна Пасатна, Мусонна, Мозамбiцька | Сомалiйська, Захiдних Вiтрiв | Iндiйський |
 | Норвезька, Шпiцберґенська | Схiдноґренландська | Пiвнiчний Льодовитий |
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/dlC4yOtQcs8" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz>
 <question>
 <p>Які хвилі переміщують всю водну товщу від дна до поверхні?</p>
