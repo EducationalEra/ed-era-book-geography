@@ -4,6 +4,12 @@
 <p align="center"><i>Рисунок 4.3.1: Часовi пояси</i></p>
 <p align="right">Автор: <span class="p1">TimeZonesBoy</span></p>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/-m13u0ftU_0" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 У 1878 р. канадський інженер Сендфорд Флемінґ запропонував систему міжнародного рахунку часу. За міжнародною домовленістю поверхню Землі розділено на 24 часові пояси (від 0-го до 23-го) завширшки в середньому $15^{\circ}$. Відлік цих поясів ведеться у східному напрямку від 0-го (Ґринвіцького) меридіана. Для зручності межі часових поясів проходять з урахуванням державних кордонів.
 
 <div class="ebio-wrap">
