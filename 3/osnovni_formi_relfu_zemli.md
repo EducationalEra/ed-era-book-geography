@@ -21,6 +21,12 @@
 </div>
 </div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/7_a2M9RQ4Ek" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 Рівнинам у тектонічній структурі відповідають *платформи*.
 
 За висотою рівнини поділяють на *низовини* (від 0 до 200 м над рівнем моря), *височини* (від 200 до 500 м над рівнем моря) і *плоскогір’я* (500-700 м над рівнем моря). Серед піднесених рівнин розрізняють *плато* і *кряжі*.
@@ -51,6 +57,12 @@
 <p><b>Гребiнь</b> — найвища частина гiрського хребта.</p>
 <b>Перевали</b> — зниженi мiсця гiрських хребтiв, якi сполучають долини, що лежать з обох бокiв вiд хребта.
 </div>
+</div>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/YGjx_hXMiWc" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
 </div>
 
 Горам у тектонічній структурі відповідають <span class="p1">області складчастості</span>.
