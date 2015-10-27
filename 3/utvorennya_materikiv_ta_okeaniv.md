@@ -7,6 +7,12 @@
 <img src="3.png"/>
 </div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/I8WGts0klUg" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz>
 <question>
 <p>Укажіть назви материків, які утворилися в результаті розколу Гондвани.</p>
