@@ -59,6 +59,12 @@
 
 <span class="p1">Діючі</span> — це ті вулкани, про виверження яких є достовірні свідчення.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/-mrGHh581ZY" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <span class="p1">Гарячі джерела та гейзери</span> — виходи на земну поверхню підземних вод, пов’язані з вулканізмом.
 
 Вони нагріваються від розпеченої магми, яка підходить близько до поверхні. Зазвичай температура води у них сягає 50-90$^{\circ}$С.
@@ -69,6 +75,12 @@
 <span class="p1">Гейзери</span> — це джерела, які під тиском пари викидають фонтани гарячої води.
 
 На узбережжі Тихого океану землетруси часто супроводжуються  велетенськими хвилями – <span class="p1">цунамі</span>, які в довжину бувають до 500 м, а висота хвилі може досягати 30-40 метрів. Під час цунамі рухається лише приповерховий шар води. 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Okn1M2puhYM" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 
 <quiz>
 <question>
