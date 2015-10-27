@@ -13,6 +13,12 @@
 <img src="1.png"/>
 </div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/zM-SKzsC2DE" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <span class="p1">Ядро</span> (33,5 % загальної маси планети) розташоване в центрі Землі.
 Розташовано ядро на глибині 2900-6371 км. Радіус ядра становить 3500 км. Його склад та особливості ще до кінця не визначені. Припускають, що зовнішнє ядро рідке, а внутрішнє складає тверду частину ядра. Температура в ядрі, ймовірно, сягає 5000$^{\circ}$С.
 
