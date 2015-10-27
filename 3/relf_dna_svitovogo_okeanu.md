@@ -24,6 +24,13 @@
 </div>
 
 <img src="q5.9.jpg">
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/USy5XJhx5oM" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz>
 <question>
 <p>Установіть відповідність між об’єктами, позначеними на схемі буквами, і  їх назвами.<br>
