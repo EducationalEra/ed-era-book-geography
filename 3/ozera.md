@@ -25,6 +25,12 @@
 <li><span class="p1">Безстічні</span> – солоні. Наприклад, озеро Балхаш, яке наполовину прісне, а наполовину солоне. Західна частина озера мілководна і має прісну воду, в неї впадає велика річка (80% усього припливу води). Східна частина глибока і має велику солоність.</li>
 </ul>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/NaQezLqtpF0" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz>
 <question>
 <p>Котловини яких озер утворилася внаслідок перегородження долини річки зсувами чи обвалами?</p>
