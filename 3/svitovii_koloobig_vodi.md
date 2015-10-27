@@ -17,6 +17,12 @@
 
 <p align="center"><span class="p1">океан – атмосфера – океан</span></p>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/7gRGUiy1lrE" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz>
 <question>
 <p>Чому відповідає схема океан - атмосфера - суходіл – океан?</p>
