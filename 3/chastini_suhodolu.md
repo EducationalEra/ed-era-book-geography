@@ -48,7 +48,9 @@
 Архіпелагами є Гавайські острови, Британські острови, Зондські острови,
 острови Нова Зеландія тощо.
 
-![image](archipelago.jpg)
+<div align="center">
+<img src="archipelago.jpg">
+</div>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/IUoEgKS-DE0" frameborder="0" allowfullscreen></iframe>
