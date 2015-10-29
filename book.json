@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "mathjax4us",
         "addcssjs",
         "exercises",
         "modal-youtube-video",
