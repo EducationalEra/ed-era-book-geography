@@ -1,5 +1,4 @@
 {   
-    "gitbook": "2.5.0",
     "plugins": [
         "addcssjs",
         "exercises",
@@ -7,9 +6,7 @@
         "quiz",
         "mathjax",
         "gtm",
-        "ga",
-        "disqus",
-        "anchor-navigation"
+        "ga"
     ],
     "pluginsConfig": {
         "addcssjs": {
