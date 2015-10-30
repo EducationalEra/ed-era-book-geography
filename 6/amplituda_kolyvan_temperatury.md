@@ -1,6 +1,6 @@
 # Амплiтуда коливань температури
 
-{% ^{\circ} %}
+{% ,^\circ %}
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
@@ -36,7 +36,7 @@
 </thead>
 <tbody>
 <tr>
-<td class="orange-cell"><i>t</i>,$$^{\tiny{o}}$$C</td>
+<td class="orange-cell"><i>t</i>$$,^{\tiny{o}}$$C</td>
 <td class="orange-cell">-8</td>
 <td class="orange-cell">-7</td>
 <td class="orange-cell">+1</td>
