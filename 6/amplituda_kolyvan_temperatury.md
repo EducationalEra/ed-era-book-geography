@@ -34,7 +34,7 @@
 </thead>
 <tbody>
 <tr>
-<td class="orange-cell"><i>t</i>, $^{\tiny{o}}$C</td>
+<td class="orange-cell"><i>t</i>, $$^{\tiny{o}}$$C</td>
 <td class="orange-cell">-8</td>
 <td class="orange-cell">-7</td>
 <td class="orange-cell">+1</td>
@@ -51,7 +51,7 @@
 </tbody>
 </table>
 <b>Розв'язок.</b> Необхідно від найбільшої температури відняти найменшу.<br>
-$23−(−8)=23+8=31$ – <i>річна амплітуда коливань</i><br>
+$$23−(−8)=23+8=31$$ – <i>річна амплітуда коливань</i><br>
 <b>Відповідь.</b> 31
 </div>
 </div>
