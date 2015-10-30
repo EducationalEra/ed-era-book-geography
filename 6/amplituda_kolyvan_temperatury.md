@@ -1,5 +1,7 @@
 # Амплiтуда коливань температури
 
+{% ^{\tiny{o}} %}C
+
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
