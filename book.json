@@ -5,7 +5,8 @@
         "quiz",
         "mathjax",
         "gtm",
-        "ga"
+        "ga",
+        "-search"
     ],
     "pluginsConfig": {
         "addcssjs": {
