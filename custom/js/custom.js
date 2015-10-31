@@ -1,7 +1,8 @@
 $(document).ready(function () {
   function init () {
     var href, $lastLink;
-
+    
+    $("a[aria-label=Search]").remove();
     $("a.toggle-search").remove();
 
     $lastLink = $(".custom-link:last");
