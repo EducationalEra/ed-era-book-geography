@@ -6,9 +6,21 @@
         "mathjax",
         "gtm",
         "ga",
+        "disqus",
         "-search"
     ],
     "pluginsConfig": {
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": false,
+            "instapaper": false,
+            "vk": true,
+            "all": [
+                "facebook", "google", "twitter","vk"
+            ]
+        },
         "addcssjs": {
             "css": [
                 "custom/css/style.css"
@@ -48,9 +60,6 @@
         "sidebar": {
           "Зв'язатися з нами: info@ed-era.com": "mailto:info@ed-era.com",
           "Перейти до бібліотеки EdEra": "https://www.ed-era.com/books"
-        },
-        "sharing": {
-            "vk":true
         }
     }
 }
