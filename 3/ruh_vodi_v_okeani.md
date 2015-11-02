@@ -69,7 +69,7 @@
 </question>
 <question>
 <p>Яка течія тече як тепла, але називається холодною?</p>
-<answer>Сомалійська</answer>
+<answer correct>Сомалійська</answer>
 <answer>Західних Вітрів</answer>
 <answer>Куросіо</answer>
 <answer>Мозамбіцька</answer>
@@ -78,6 +78,6 @@
 <p>Який вид хвиль досягає у затоці Фанді висоти до 18 м?</p>
 <answer>Цунамі</answer>
 <answer>Вітрові</answer>
-<answer>Припливно-відпливні</answer>
+<answer correct>Припливно-відпливні</answer>
 </question>
 </quiz>
