@@ -30,5 +30,5 @@ $$+10^{\circ}С$$ до $$+15^{\circ}С$$. У Південній півкулі �
 <answer>Тропічні</answer>
 <answer>Помірні</answer>
 <answer correct>Полярні</answer>
-<question>
-<quiz>
+</question>
+</quiz>
