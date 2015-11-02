@@ -34,7 +34,7 @@
 </thead>
 <tbody>
 <tr>
-<td class="orange-cell"><i>t,</i>$$ ^{\tiny{o}} $$C</td>
+<td class="orange-cell"><i>t,</i>$$ ^{\tiny{o}} С$$</td>
 <td class="orange-cell">-8</td>
 <td class="orange-cell">-7</td>
 <td class="orange-cell">+1</td>
