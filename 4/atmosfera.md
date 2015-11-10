@@ -72,3 +72,50 @@
 </tr>
 </tbody>
 </table>
+
+<quiz>
+<question>
+<p>Який газ складає основу атмосферного повітря?</p>
+<answer>Вуглекислий газ</answer>
+<answer>Кисень</answer>
+<answer correct>Азот</answer>
+<answer>Озон</answer>
+</question>
+<question>
+<p>Яке з тверджень не є вірним?</p>
+<answer>Озон концентрується на висотi 20-30 км, утворюючи озоновий шар</answer> 
+<answer>Водяна пара затримує в атмосферi до 60% тепла, що пiднiмається вiд поверхнi Землi</answer> 
+<answer correct>Тропосфера мiстить 30% усього атмосферного повiтря</answer> 
+<answer>Атмосфера утримується силою тяжiння Землi та обертається разом iз нею</answer> 
+<answer>Усі вірні</answer>
+</question>
+<question>
+<p>Встановіть відповідність між складовими атмосферного повітря та їх функціями:<br>
+Кисень</p>
+<answer>«утеплювач» Землi</answer>
+<answer>«конструктор» усього живого</answer>
+<answer correct>забезпечує дихання</answer>
+<answer>захисник від шкідливого сонячного випромінення</answer>
+</question>
+<question>
+<p>Вуглекислий газ</p>
+<answer correct>«утеплювач» Землi</answer>
+<answer>«конструктор» усього живого</answer>
+<answer>забезпечує дихання</answer>
+<answer>захисник від шкідливого сонячного випромінення</answer>
+</question>
+<question>
+<p>Азот</p>
+<answer>«утеплювач» Землi</answer>
+<answer correct>«конструктор» усього живого</answer>
+<answer>забезпечує дихання</answer>
+<answer>захисник від шкідливого сонячного випромінення</answer>
+</question>
+<question>
+<p>Озон</p>
+<answer>«утеплювач» Землi</answer>
+<answer>«конструктор» усього живого</answer>
+<answer>забезпечує дихання</answer>
+<answer correct>захисник від шкідливого сонячного випромінення</answer>
+</question>
+</quiz>
