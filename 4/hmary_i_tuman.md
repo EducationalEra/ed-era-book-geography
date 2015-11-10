@@ -30,3 +30,12 @@
 <b>Хмарнiсть</b> — ступiнь покриття неба хмарами.
 </div>
 </div>
+
+<quiz>
+<question>
+<p>Що утворюється внаслідок згущення водяної пари в приземних шарах повітря?</p>
+<answer correct>Туман</answer>
+<answer>Хмари</answer>
+<answer>Дощ</answer>
+</question>
+</quiz>
