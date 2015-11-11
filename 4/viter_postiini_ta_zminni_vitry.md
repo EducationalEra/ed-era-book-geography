@@ -109,8 +109,11 @@
 <question>
 <p>В яких одиницях вимірюють силу вітру?</p>
 <answer correct>$$\dfrac{\text{кг}}{\text{м}^2}$$</answer>
+<br>
 <answer>$$\text{мм.рт.ст}$$</answer>
+<br>
 <answer>$$\dfrac{\text{км}}{\text{год}}$$</answer>
+<br>
 <answer>$$\dfrac{\text{м}}{\text{с}}$$</answer>
 </question>
 <question>
