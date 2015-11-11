@@ -59,6 +59,14 @@
 </div>
 </div>
 
+<div class="space">
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/7DprCoRFq90" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+</div>
+
 <div align="center">
 <img src="15.jpg" width="650">
 <p><i>Карта кліматичних поясів</i></p>
