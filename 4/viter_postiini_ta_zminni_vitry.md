@@ -109,9 +109,9 @@
 <question>
 <p>В яких одиницях вимірюють силу вітру?</p>
 <answer correct>$$\dfrac{\text{кг}}{\text{м}^2}$$</answer>
-<answer>$$\dfrac{\text{м}}{\text{с}}$$</answer>
-<answer>$$\dfrac{\text{км}}{\text{год}}$$</answer>
 <answer>$$\text{мм.рт.ст}$$</answer>
+<answer>$$\dfrac{\text{км}}{\text{год}}$$</answer>
+<answer>$$\dfrac{\text{м}}{\text{с}}$$</answer>
 </question>
 <question>
 <p>Дайте визначення поняттю роза вітрів</p>
