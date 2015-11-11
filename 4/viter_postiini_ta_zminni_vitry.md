@@ -41,13 +41,11 @@
 
 <div class="space">
 <div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/fXqLYHAefZo" frameborder="0" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/7DprCoRFq90" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
 </div>
 </div>
-
-
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
