@@ -64,8 +64,8 @@
     <question text="">
         <p>Яку проекцію краще за все використовувати для створення карти України?</p>
         <answer>азимутальну</answer>
-        <answer correct>циліндричну</answer>
-        <answer>конічну</answer>
+        <answer>циліндричну</answer>
+        <answer correct>конічну</answer>
     <explanation>
     Україна знаходиться в помірних широтах, де проходить лінія мінімальних спотворень конічної проекції.
     </explanation>
