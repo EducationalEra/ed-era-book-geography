@@ -580,6 +580,6 @@ p1 {
   }
 
 }
-a[href*=biggggidea] {
+.book .book-body .page-wrapper .page-inner section.normal a[href*=biggggidea] {
     color: rgb(250,175,0);
 }
