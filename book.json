@@ -12,7 +12,7 @@
     ],
     "pluginsConfig": {
         "insert-md": {
-          "md": "<p style=\"color: rgb(250,175,0)\">[Підтримайте EdEra на Cпільнокошті!](https://biggggidea.com/project/1247/)</p>"  
+          "md": "[Підтримайте EdEra на Cпільнокошті!](https://biggggidea.com/project/1247/)\n"  
         },
         "sharing": {
             "facebook": true,
