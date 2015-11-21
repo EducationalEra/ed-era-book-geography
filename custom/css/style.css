@@ -580,3 +580,6 @@ p1 {
   }
 
 }
+a[href*=biggggidea] {
+    color: rgb(250,175,0);
+}
