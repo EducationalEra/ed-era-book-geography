@@ -140,3 +140,10 @@
 <p align="center"><span class="p1">на материкові Євразія</span> та в природних країнах — <span class="p1">Східноєвропейській рівнині</span>, <span class="p1">Кримських горах</span> і <span class="p1">Карпатах</span>.
 
 Її територію перетинають три основні зональні комплекси: <span class="p1">мішані ліси</span>, <span class="p1">лісостеп</span> і <span class="p1">степ</span>.
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/9EAMSxXg-H0" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
