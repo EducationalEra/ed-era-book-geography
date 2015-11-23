@@ -107,3 +107,21 @@
 </tr>
 </tbody>
 </table>
+
+<quiz>
+<question>
+<p>Від чого найбільшою мірою залежить родючість ґрунту?</p>
+<answer>материнської породи</answer>
+<answer>глубини залягання зони вимивання</answer>
+<answer correct>вмісту гумусу</answer>
+<answer>переважаючої рослинності</answer>
+</question>
+
+<question>
+<p>Основна речовина що визначає родючість грунтів:</p>
+<answer correct>Гумус</answer>
+<answer>Вода</answer>
+<answer>Нітроген</answer>
+<answer>Кисень</answer>
+</question>
+</quiz>
