@@ -18,7 +18,11 @@
 <img src="2-1.jpg">
 </div>
 
-https://youtu.be/HOveFKJQVnk
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/HOveFKJQVnk" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 
 
 <quiz>
