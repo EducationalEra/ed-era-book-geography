@@ -50,3 +50,24 @@
 -   <span class="p1">Широтна</span> — у напрямку від екватора до полюсів (на рівнинах).
 
 -   <span class="p1">Висотна</span> — від підніжжя до вершини (в горах).
+
+<quiz>
+<question multiple>
+<p>В межах яких оболонок знаходиться географічна оболонка:</p>
+<answer correct>Гідросфера</answer>
+<answer>Нижня частина літосфери</answer>
+<answer correct>Верхня частина літосфери</answer>
+<answer correct>Атмосфера</answer>
+<answer correct>Нижня частина атмосфери</answer>
+<answer>Верхня частина атмосфери</answer>
+<answer correct>Біосфера</answer>
+</question>
+      
+<question>
+<p>Яка природна зона знаходиться не у помірному кліматичному поясі?</p>
+<answer>пустелі та напівпустелі </answer>
+<answer>степи і лісостепи</answer>
+<answer correct>мусонні ліси</answer>
+<answer>широколистяні ліси</answer>
+</question>
+</quiz>
