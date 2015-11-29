@@ -23,8 +23,8 @@
 <p>Установіть відповідність між назвами географічних об’єктів, та буквами, якими їх позначено на картосхемі.<br>
 Анди</p>
 <answer>А</answer>
-<answer>Б</answer>
-<answer correct>В</answer>
+<answer correct>Б</answer>
+<answer>В</answer>
 <answer>Г</answer>
 <answer>Д</answer>
 </question>
