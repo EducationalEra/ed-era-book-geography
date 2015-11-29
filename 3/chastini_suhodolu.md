@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-<img src="3-5.png">
+<img src="3-5_new.JPG">
 </div>
 
 <div class="eoz-wrap">
