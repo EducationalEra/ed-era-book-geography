@@ -62,9 +62,9 @@
 <question>
 <p>Який океан найсолоніший?</p>
 <answer>Тихий океан</answer>
-<answer correct>Індійський океан</answer>
+<answer>Індійський океан</answer>
 <answer>Північний Льодовитий океан</answer>
-<answer>Атлантичний океан</answer>
+<answer correct>Атлантичний океан</answer>
 </question>
 <question>
 <p>Що є назвою затоки?</p>
