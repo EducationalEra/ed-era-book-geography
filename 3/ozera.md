@@ -35,8 +35,8 @@
 <question>
 <p>Котловини яких озер утворилися внаслідок перегородження долини річки зсувами чи обвалами?</p>
 <answer>карстових</answer>
-<answer>загатних</answer>
-<answer correct>лиманних</answer>
+<answer correct>загатних</answer>
+<answer>лиманних</answer>
 <answer>залишкових</answer>
 </question>
 <question>
