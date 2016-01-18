@@ -24,60 +24,56 @@
    * [Геологiчний час](2/geologichnii_chas.md)
    * [Рух Землi у космосi](2/ruh_zemli_u_kosmosi.md)
    * [Часовi пояси](2/chasovi_poyasi.md)
-* Лiтосфера
-    1. Внутрiшня будова Землi
-    2. Гiрськi породи та мiнерали
-    3. Розмiри Землi
-    4. Утворення материкiв та океанiв
-    5. Лiтосфера та лiтосфернi плити
-    6. Рухи земної кори
-    7. Вплив внутрiшнiх сил Землi
-    8. Вплив зовнiшнiх сил Землi
-    9. Основнi форми рельєфу Землi
-    10. Рельєф дна Свiтового океану
-    11. Додаток. Основнi гори свiту
-* Гiдросфера
-    1. Гiдросфера, її склад i будова
-    2. Свiтовий колообiг води
-    3. Свiтовий океан та його частини
-    4. Частини суходолу
-    5. Воднi маси
-        1. Додаток 1. Найбiльшi глибина океанiв
-    6. Рух води в океанi
-    7. Води суходолу
-        1. Додаток 2. Рiчки
-    8. Озера
-        1. Додаток 3. Озера
-    9. Болота та штучнi водойми
-    10. Льодовики та багаторiчна мерзлота
-    11. Пiдземнi води
-* Атмосфера
-    1. Атмосфера, її склад i будова
-    2. Тепловi пояси Землi
-    3. Пояси атмосферного тиску на Землi
-    4. Вiтер, постiйнi та змiннi вiтри
-    5. Хмари i туман
-        1. Види хмар
-    6. Повiтрянi маси,циклони та антициклони
-    7. Види опадiв i закономiрностi їхнього розподiлу
-    8. Погода, її елементи, типи, змiна в часi
-    9. Клiмат Землi, чинники його формування, пояси i основнi типи
-* Бiосфера
-    1. Бiосфера та її складовi
-    2. Вплив господарської дiяльностi людини на бiосферу
-    3. Ґрунти
-    4. Географiчна оболонка, закономiрностi її формування i розвитку
-    5. Зональнi та азональнi природнi комплекси
-* Змiни природи пiд впливом господарської     дiяльностi людини
-    1. Господарська дiяльнiсть людини
-    2. Змiни компонентiв природи людиною
-    3. Природнi ресурси материкiв та океанiв
-* Вирiшення географiчних задач
-    1. Сонце
-    2. Амплiтуда коливань температури
-    3. Зволоження територiї
-    4. Ресурсозабезпеченiсть
-    5. Рiчки
-    6. Населення
-    7. Тиск
-    8. Пам’ятка
+* [Лiтосфера](3/vnutrishnya_budova_zemli.md)
+   * [Гiрськi породи та мiнерали](3/girski_porodi_ta_minerali.md)
+   * [Розмiри Землi](3/rozmiri_zemli.md)
+   * [Утворення материкiв та океанiв](3/utvorennya_materikiv_ta_okeaniv.md)
+   * [Лiтосфера та лiтосфернi плити](3/litosfera_ta_litosferni_pliti.md)
+   * [Рухи земної кори](3/ruhy_zemnoi_kory.md)
+   * [Вплив внутрiшнiх сил Землi](3/vpliv_vnutrishnih_sil_zemli.md)
+   * [Вплив зовнiшнiх сил Землi](3/vpliv_zovnishnih_sil_zemli.md)
+   * [Основнi форми рельєфу Землi](3/osnovni_formi_relfu_zemli.md)
+   * [Рельєф дна Свiтового океану](3/relf_dna_svitovogo_okeanu.md)
+   * [Додаток 1. Основнi гори свiту](3/dodatok_osnovni_gori_svitu.md)
+* [Гiдросфера](3/gidrosfera.md)
+   * [Свiтовий колообiг води](3/svitovii_koloobig_vodi.md)
+   * [Свiтовий океан та його частини](3/svitovii_okean_ta_iogo_chastini.md)
+   * [Частини суходолу](3/chastini_suhodolu.md)
+   * [Воднi маси](3/vodni_masi.md)
+       * [Додаток 1. Найбiльшi глибини океанiв](3/dodatok_1_naibilshi_glibina_okeaniv.md)
+   * [Рух води в океанi](3/ruh_vodi_v_okeani.md)
+   * [Води суходолу](3/vodi_suhodolu.md)
+       * [Додаток 2. Рiчки](3/dodatok_2_richki.md)
+   * [Озера](3/ozera.md)
+       * [Додаток 3. Озера](3/dodatok_3_ozera.md)
+   * [Болота та штучнi водойми](3/bolota_ta_shtuchni_vodoimi.md)
+   * [Льодовики та багаторiчна мерзлота](3/lodoviki_ta_bagatorichna_merzlota.md)
+   * [Пiдземнi води](3/pidzemni_vodi.md)
+* [Атмосфера](4/atmosfera.md)
+   * [Тепловi пояси Землi](4/teplovi_poyasy_zemli.md)
+   * [Пояси атмосферного тиску на Землi](4/poyasy_atmosfernogo_tysku_na_zemli.md)
+   * [Вiтер, постiйнi та змiннi вiтри](4/viter_postiini_ta_zminni_vitry.md)
+   * [Хмари i туман](4/hmary_i_tuman.md)
+       * [Види хмар](4/vydy_hmar.md)
+   * [Повiтрянi маси,циклони та антициклони](4/povitryani_masy,cyklony_ta_antycyklony.md)
+   * [Види опадiв i закономiрностi їхнього розподiлу](4/vydy_opadiv_i_zakonomirnosti_ihnogo_rozpodilu.md)
+   * [Погода, її елементи, типи, змiна в часi](4/pogoda__elementy_typy,_zmina_v_chasi.md)
+   * [Клiмат Землi, чинники його формування, пояси i основнi типи](4/klimat_zemli_chynnyky_iogo_formuvannya_poyasi_i_osnovni_typy.md)
+* [Бiосфера](4/biosfera.md)
+   * [Вплив господарської дiяльностi людини на бiосферу](4/vplyv_gospodarsko_diyalnosti_lyudyny_na_biosferu.md)
+   * [Ґрунти](4/grunty.md)
+   * [Географiчна оболонка, закономiрностi її формування i розвитку](4/geografichna_obolonka_zakonomirnosti__formuvannya_i_rozvytku.md)
+   * [Зональнi та азональнi природнi комплекси](4/zonalni_ta_azonalni_pryrodni_kompleksy.md)
+* [Змiни природи пiд впливом господарської     дiяльностi людини](5/zminy_pryrody_pid_vplyvom_gospodarsko_diyalnosti_lyudyny.md)
+   * [Змiни компонентiв природи людиною](5/zminy_komponentiv_pryrody_lyudynoyu.md)
+   * [Природнi ресурси материкiв та океанiв](5/pryrodni_resursy_materykiv_ta_okeaniv.md)
+* [Забруднення й охорона природного середовища](5/zabrudnennya_i_ohorona_pryrodnogo_seredovyscha.md)
+* [Розв'язання географiчних задач](6/rozvyazannyageografichnyh_zadach.md)
+   * [Сонце](6/rozvyazannyageografichnyh_zadach.md)
+   * [Амплiтуда коливань температури](6/amplituda_kolyvan_temperatury.md)
+   * [Зволоження територiї](6/zvolozhennya_terytorii.md)
+   * [Ресурсозабезпеченiсть](6/resursozabezpechenist.md)
+   * [Рiчки](6/richky.md)
+   * [Населення](6/naselennya.md)
+   * [Тиск](6/tysk.md)
+   * [Пам’ятка](6/pamyatka.md)
