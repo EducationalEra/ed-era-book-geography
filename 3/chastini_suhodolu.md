@@ -57,7 +57,6 @@
 </div>
 <div class="popup">
 </div>
-<br>
 
 <quiz>
 <question>
