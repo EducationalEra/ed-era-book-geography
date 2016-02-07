@@ -630,3 +630,8 @@ p1 {
     color: rgb(250,175,0);
     animation: fadeIn .5s, slideDown .5s;
 }
+
+/* No vertical lines in MathJax */
+nobr > .math > span {
+    border-left-width: 0 !important;
+}
