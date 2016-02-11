@@ -35,7 +35,7 @@
 <b>Витрата річки</b> = $$\mbox{поперечний переріз річки}\cdot\mbox{швидкість}$$
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Річний стік</b> – це витрата води за 1 рік.
 </div>
