@@ -48,7 +48,7 @@
 </div>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Пасати</b> — це постiйнi вiтри, якi виникають мiж тропiчним високим та екваторiальним низьким поясами атмосферного тиску в Пiвнiчнiй i Пiвденнiй пiвкулях Землi.
 </div>
