@@ -1,7 +1,7 @@
 # Хмари i туман
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Випаровування</b> — це перехiд води з рiдкого стану в газоподiбний.
 </div>
