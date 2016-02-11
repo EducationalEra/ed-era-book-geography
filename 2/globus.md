@@ -1,7 +1,7 @@
 #Глобус
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Глобус</b> — це об’ємна модель Землi.
 </div>
