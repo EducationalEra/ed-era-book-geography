@@ -41,7 +41,7 @@
 
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Iзобари</b> — лiнiї на картi, якi з’єднують точки з однаковим тиском
 на земнiй поверхнi.
