@@ -14,7 +14,7 @@
 Головна властивість ґрунту — <span class="p1">родючість</span>.
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Родючiсть</b> — здатнiсть ґрунту передавати рослинам поживнi речовини та воду.
 </div>
