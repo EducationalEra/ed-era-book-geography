@@ -10,7 +10,7 @@
 <b>Похил річки</b> = $$\dfrac{\mbox{падіння}}{\mbox{довжина}}$$
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Падіння річки</b> – це різниця висот витоку і гирла річки.
 </div>
