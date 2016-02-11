@@ -87,7 +87,7 @@
 
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <p><b>Фен — теплий i сухий вiтер, що дме з гiр у долини.</p>
 
