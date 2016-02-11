@@ -114,7 +114,7 @@
 </table>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Висотна пояснiсть</b> — змiна природних зон у горах залежно вiд висоти.
 </div>
