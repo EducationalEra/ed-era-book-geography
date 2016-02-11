@@ -90,7 +90,7 @@
 Руйнівну роботу ріки називають <span class="p1">ерозією</span>.
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Меандри</b> — плавнi колоподiбнi вигини русла рiчки.
 </div>
