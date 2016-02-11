@@ -17,7 +17,7 @@
 </ul>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Солонiсть води</b> — загальна кiлькiсть солей, умiщених в 1 л (1000 г) води.
 </div>
