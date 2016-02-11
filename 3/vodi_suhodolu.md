@@ -53,7 +53,7 @@
 <p align="right">Автор: <span class="p1">Distorted</span></p>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <p><b>Режим рiчки</b> — змiна рiвня води в рiчцi протягом року.</p>
 <p><b>Повiнь</b> — тривале перiодичне пiдняття рiвня води в рiчцi.</p>
