@@ -39,7 +39,7 @@
 </ul>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <p><b>Басейн рiчки</b> — територiя, з якої рiчка з притоками збирає поверхневi та пiдземнi води.</p>
 <b>Вододiл</b> — межа мiж басейнами сусiднiх рiчок.
