@@ -21,7 +21,7 @@
 ![image](3-2.png)
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Моря</b> — частини океанiв, як i глибоко заходять у сушу або вiдокремленi вiд океанiв островами i пiвостровами.
 </div>
