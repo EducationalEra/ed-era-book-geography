@@ -20,7 +20,7 @@
 </ul>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Тепловi пояси</b> — умовнi глобальнi областi Землi, що видiляються
 за ознакою розподiлу середньорiчних температур повiтря.
@@ -32,7 +32,7 @@
 умовними лініями — тропіками та полярними колами.
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <p><b>Тропiки</b> (Пiвнiчний та Пiвденний) — паралелi, що вiддаленi на
 $$23^{\circ}27’$$ на пiвнiч i на пiвдень вiд екватора.</p>
