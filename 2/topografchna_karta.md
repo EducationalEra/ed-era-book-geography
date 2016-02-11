@@ -67,7 +67,7 @@
 </div>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Дiйсний меридiан</b> — це географiчний меридiан, який з’єднує полюси й показує
 напрямок пiвнiч-пiвдень.<br/>
