@@ -7,7 +7,7 @@
 <p align="right"><i>Автор зображення:</i> Hellerick</p>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Топографiчна карта</b> — це загальногеографiчна багатоаркушева (27000 листiв) карта великого масштабу (1 : 200000 i бiльше).
 </div>
