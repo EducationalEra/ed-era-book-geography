@@ -7,7 +7,7 @@
 </div>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Географiчнi пояси</b> — найбiльшi зональнi комплекси, що простягаються переважно в широтному напрямку i змiнюються вiд екватора до полюсiв.
 </div>
