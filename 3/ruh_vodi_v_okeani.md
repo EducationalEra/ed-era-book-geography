@@ -20,7 +20,7 @@
 </ul>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Океанiчнi течiї</b> — горизонтальнi перемiщення водних мас на великi вiдстанi.
 </div>
