@@ -1,6 +1,6 @@
 # Пiдземнi води
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Пiдземнi води</b> — це води, якi залягають в трiщинах та пустотах земної кори в рiдкому, твердому та газоподiбному станi.
 </div>
