@@ -2,7 +2,7 @@
 ==============================
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Свiтовий океан</b> — безперервний водний простiр земної кулi поза суходолом.
 </div>
