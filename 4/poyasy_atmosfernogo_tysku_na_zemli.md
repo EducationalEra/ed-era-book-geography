@@ -2,7 +2,7 @@
 =================================
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Атмосферний тиск</b> – сила, з якою повiтря тисне на земну поверхню.
 </div>
