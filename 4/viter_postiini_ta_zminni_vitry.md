@@ -62,7 +62,7 @@
 
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Захiднi вiтри</b> — постiйнi вiтри, якi дмуть у помiрних широтах.
 </div>
