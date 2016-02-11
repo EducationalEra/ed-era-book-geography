@@ -52,7 +52,7 @@
 
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Азимут</b> — це горизонтальний кут мiж напрямком на пiвнiч i напрямком на обраний об’єкт.
 </div>
@@ -64,7 +64,7 @@
 $$360^{\circ}$$.
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Румб</b> — це кут мiж напрямком на предмет та найближчим кiнцем меридiана.
 </div>
