@@ -17,7 +17,7 @@
 </div>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Фiзичне вивiтрювання</b> — руйнування мiнералiв i гiрських порiд пiд впливом <i>сонячної енергiї</i>.
 </div>
