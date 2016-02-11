@@ -1,7 +1,7 @@
 #Атмосфера, її склад i будова
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Атмосфера</b> — повiтряна оболонка Землi.
 </div>
