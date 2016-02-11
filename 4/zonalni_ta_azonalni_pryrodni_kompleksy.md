@@ -127,7 +127,7 @@
 </div>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Азональнi природнi комплекси</b> — формуються пiд впливом особливостей будови земної кори та рельєфу поверхнi.
 </div>
