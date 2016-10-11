@@ -64,15 +64,6 @@ $$23^{\circ}27’$$ на пiвнiч i на пiвдень вiд екватора.
 </div>
 </div>
 
-
-<div class="eoz-wrap">
-<span class="eoz">Визначення</span>
-<div class="eoz-text">
-<p></p>
-<b>Iзотерми</b> — лiнiї на картi, якi з’єднують точки з однаковою середньою температурою на земнiй поверхнi.
-</div>
-</div>
-
 <div align="center">
 <img src="1.png">
 <p align="right">Автор: <span class="p1">Urmas</span></p>
