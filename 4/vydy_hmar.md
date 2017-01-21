@@ -7,7 +7,7 @@
 
 <div align="center">
 <img src="8.png" width="360">
-<p align="right">Автор: <span class="p1">Fir0002</span></p>
+Автор: <span class="p1">Fir0002</span>
 </div>
 
 <span class="p1">Шаруваті</span> й <span class="p1">шарувато-дощові хмари</span> низькі, потужні, часто мають
@@ -17,7 +17,7 @@
 
 <div align="center">
 <img src="9.png" width="360">
-<p align="right">Автор: <span class="p1">PiccoloNamek</span></p>
+Автор: <span class="p1">PiccoloNamek</span>
 </div>
 
 <span class="p1">Купчасті</span> і <span class="p1">купчасто-дощові</span> хмари з’являються влітку. Це білі
@@ -26,7 +26,7 @@
 
 <div align="center">
 <img src="10.png" width="360">
-<p align="right">Автор: <span class="p1">Gebruiker:RobotE</span></p>
+Автор: <span class="p1">Gebruiker:RobotE</span>
 </div>
 
 <quiz>

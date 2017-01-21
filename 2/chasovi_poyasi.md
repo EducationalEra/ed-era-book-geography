@@ -1,8 +1,8 @@
 #Часові пояси
 
 <img class="center" src="3.png">
-<p align="center"><i>Рисунок 4.3.1: Часовi пояси</i></p>
-<p align="right">Автор: <span class="p1">TimeZonesBoy</span></p>
+<p align="center"><i>Рисунок 4.3.1: Часовi пояси</i><br>
+Автор: <span class="p1">TimeZonesBoy</span></p>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/-m13u0ftU_0" frameborder="0" allowfullscreen></iframe>

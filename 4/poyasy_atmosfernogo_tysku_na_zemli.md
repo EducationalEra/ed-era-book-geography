@@ -1,5 +1,4 @@
-Пояси атмосферного тиску на Землi
-=================================
+# Атмосферний тиск. Пояси атмосферного тиску на Землi
 
 <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
@@ -14,9 +13,9 @@
 
 Вимірюють тиск за допомогою **барометра**.
 
-<div align="center">
-<img src="2.jpg" width="350">
-<p align="right">Автор: <span class="p1">Sch</span></p>
+<div class="center">
+<img class="center" src="2.jpg" width="350">
+<p>Автор: <span class="p1">Sch</span></p>
 </div>
 
 Повітря тисне на різні ділянки земної поверхні неоднаково. Це можна

@@ -1,4 +1,4 @@
-# Озера
+# Озеро
 
 <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
